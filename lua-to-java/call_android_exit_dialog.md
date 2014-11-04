@@ -41,6 +41,7 @@
 	
 	    self:registerScriptHandler(onNodeEvent)
 	end
+	return IndexScene
 
 在MyApp中
 

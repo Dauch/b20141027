@@ -5,6 +5,7 @@
 
 示例
 
+```lua
 	local IndexScene = class("IndexScene",function()
 	    return cc.Scene:create()
 	end)
@@ -42,9 +43,11 @@
 	    self:registerScriptHandler(onNodeEvent)
 	end
 	return IndexScene
+```
 
 在MyApp中
 
+```lua
 	function MyApp:callIsExitDialog()
 	    local targetPlatform = cc.Application:getInstance():getTargetPlatform()
 	
@@ -58,9 +61,11 @@
 	        luaj.callStaticMethod(className, "callIsExitDialog", args, sigs)
 	    end
 	end
+```
 
 ##2.在android的java文件中
 
+```java
 	package org.cocos2dx.lua;
 	public class AppActivity extends Cocos2dxActivity
 	{
@@ -90,3 +95,4 @@
 	        });
 	    }
 	}
+```

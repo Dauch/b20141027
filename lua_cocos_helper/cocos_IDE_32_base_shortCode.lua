@@ -78,3 +78,8 @@ local function animationEvent(armatureBack,movementType,movementID)
 end
 
 armature:getAnimation():setMovementEventCallFunc(animationEvent)
+
+-------------------------------------
+--  replace new picture from exiting sprite
+-------------------------------------
+self.sp:setSpriteFrame(cc.SpriteFrame:create(self.spName,cc.rect(0, 0, width, height)))

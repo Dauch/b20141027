@@ -24,3 +24,20 @@ print(GAME_IMAGE.bg_mainscene)      -- "img/bg_mainscene.jpg"
 for i = 1, 4 do
 	print(GAME_IMAGE.["spark_" .. i])      -- all will be printed correctly
 end
+
+-------------------------------------
+--  branches print a single string(if the string is too long)
+-------------------------------------
+local a = "123456789"
+local n = string.len(a)
+local t = ""
+local tn = 1
+-- fixd length
+local fixLen = 2
+if n > fixLen then
+    repeat
+        t = t .. "\n" .. string.sub(a, tn, tn + fixLen - 1)
+        tn = tn + fixLen
+    until tn > n
+end
+print(t)

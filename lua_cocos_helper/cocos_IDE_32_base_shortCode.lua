@@ -12,3 +12,12 @@ end
 -- pDirector:getActionManager():resumeTarget(node)
 local PauseResumeActions_pauseEntry = scheduler:scheduleScriptFunc(interval, 3, false)
 scheduler:unscheduleScriptEntry(PauseResumeActions_pauseEntry)
+
+
+-- Action CallFunc
+local function startBtnDoneActCallBack( sender, paramTable)
+	-- sender 是startBtn
+	-- paramTable 是传进来的table 即{12, 15}, 参数可选
+end
+
+cc.CallFunc:create(startBtnDoneActCallBack, {12, 15})

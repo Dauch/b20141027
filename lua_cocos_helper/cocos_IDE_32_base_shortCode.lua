@@ -46,3 +46,12 @@ local function starBtnClicked(sender,eventType)
 end
 
 startBtn:addTouchEventListener(starBtnClicked)
+
+-------------------------------------
+--  CocoStudio Armature sample code
+-------------------------------------
+ccs.ArmatureDataManager:getInstance():addArmatureFileInfo("ccs_ani/xiaochu/xiaochu.ExportJson")
+local armature = ccs.Armature:create("xiaochu")
+self:addChild(armature)
+armature:getAnimation():play("lvxing")
+-- armature:getAnimation():playWithIndex(0)

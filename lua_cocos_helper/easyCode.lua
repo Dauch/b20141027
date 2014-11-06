@@ -53,3 +53,21 @@ for itemIndex = 1, itemCount do
     local itemPosX = w*0.5 + (i - math.ceil(itemCount/2)) * itemWidth
     local itemPosY = h*0.5 + itemHeight
 end
+
+
+-- 如果遇到很多类似下面的判断,而且then下面需要执行的逻辑有规律
+if id == "pay1" then
+elseif id == "pay2" then
+elseif id == "pay3" then
+elseif id == "pay4" then
+elseif id == "pay5" then
+elseif id == "pay6" then
+end
+-- 可使用下面的方法优雅的代替
+local case = {"pay1", "pay2", "pay3", "pay4", "pay5", "pay6"}
+for i = 1, #case do
+    if id == case[i] then
+        -- do
+        break
+    end
+end

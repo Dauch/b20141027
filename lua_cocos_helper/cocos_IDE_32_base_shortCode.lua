@@ -55,3 +55,26 @@ local armature = ccs.Armature:create("xiaochu")
 self:addChild(armature)
 armature:getAnimation():play("lvxing")
 -- armature:getAnimation():playWithIndex(0)
+
+-- armatureBack: 为播放动画的实体，此处为 armature
+-- movementType: 为动画类型 有
+-- 		ccs.MovementEventType = {
+--			    start = 0,
+--			    complete = 1,
+--			    loopComplete = 2,
+-- 		}
+-- movementID:  为动画名
+-- 调用频率 complete 为单次播放，播放完即调用一次
+--      loopComplete 循环类的每次播放完动画调用一次
+local function animationEvent(armatureBack,movementType,movementID)
+    local id = movementID
+    if movementType == ccs.MovementEventType.loopComplete then
+        if id == "Fire" then
+            armatureBack:getAnimation():play("Walk")
+        elseif id == "FireMax" then
+            armatureBack:getAnimation():play("Walk")
+        end
+    end
+end
+
+armature:getAnimation():setMovementEventCallFunc(animationEvent)

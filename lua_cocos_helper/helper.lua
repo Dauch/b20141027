@@ -1,4 +1,6 @@
--- show up Layer
+-------------------------------------
+--  show up Layer
+-------------------------------------
 function showLayer(layer)
     layer:setVisible(false)
     layer:setPositionY(layer:getPositionY() + 480)
@@ -10,7 +12,9 @@ function showLayer(layer)
         , cc.ScaleTo:create(0.2, 1, 1)))
 end
 
--- hide up Layer
+-------------------------------------
+--  hide up Layer
+-------------------------------------
 function hideLayer(layer)
     local function callback( sender )
         layer:setPositionY(layer:getPositionY() - 480)
@@ -23,7 +27,9 @@ function hideLayer(layer)
         , cc.CallFunc:create(callback)))
 end
 
--- print table way 1
+-------------------------------------
+--  print lua table   way 1
+-------------------------------------
 function print_lua_table (lua_table, indent)
     indent = indent or 0
     for k, v in pairs(lua_table) do
@@ -52,7 +58,9 @@ function print_lua_table (lua_table, indent)
     end
 end
 
--- print table way 2
+-------------------------------------
+--  print lua table   way 2
+-------------------------------------
 function print_t(lua_table)
     local cache = {  [lua_table] = "." }
     local function _dump(t,space,name)

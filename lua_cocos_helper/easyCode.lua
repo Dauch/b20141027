@@ -41,3 +41,15 @@ if n > fixLen then
     until tn > n
 end
 print(t)
+
+-------------------------------------
+--  将多项分2列排序（控制x， y）
+-------------------------------------
+-- 1    2
+-- 3    4
+-- 5
+local itemCount = 5
+for itemIndex = 1, itemCount do
+    local itemPosX = w*0.5 + (i - math.ceil(itemCount/2)) * itemWidth
+    local itemPosY = h*0.5 + itemHeight
+end

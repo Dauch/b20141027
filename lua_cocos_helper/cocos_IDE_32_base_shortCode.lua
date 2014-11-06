@@ -24,3 +24,25 @@ local function startBtnDoneActCallBack( sender, paramTable)
 end
 
 cc.CallFunc:create(startBtnDoneActCallBack, {12, 15})
+
+-------------------------------------
+--  CocoStudio GUI sample code
+-------------------------------------
+local uiLayout = ccs.GUIReader:getInstance():widgetFromJsonFile("ccs_ui/hyy.ExportJson")
+local layer = display.newLayer()
+layer:addChild(uiLayout)
+self:addChild(layer)
+local rootSize = uiLayout:getSize()
+local root = uiLayout:getChildByName("Panel_6")
+
+local startBtn = ccui.Helper:seekWidgetByName(root, "Button_7")
+
+local function starBtnClicked(sender,eventType)
+    if eventType == ccui.TouchEventType.began then
+    elseif eventType == ccui.TouchEventType.moved then
+    elseif eventType == ccui.TouchEventType.ended then
+    elseif eventType == ccui.TouchEventType.canceled then
+    end
+end
+
+startBtn:addTouchEventListener(starBtnClicked)

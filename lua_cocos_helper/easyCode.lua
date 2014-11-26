@@ -71,3 +71,14 @@ for i = 1, #case do
         break
     end
 end
+
+-------------------------------------
+--  在quick中如何遍历子物体
+-------------------------------------
+-- 遍历子物体
+local children = node:getChildren()
+local len = children:count()
+for i = 0, len-1, 1 do
+    -- child 即是子物体
+    local child = tolua.cast(children:objectAtIndex(i), "CCNode")
+end

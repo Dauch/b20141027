@@ -551,3 +551,28 @@ self:registerScriptHandler( function(event)
         notifiCent:removeAllObservers(self)
     end
 end )
+
+-- 用到cocos2d的坐标转换，一般两种情况：
+-- 1）从当前坐标点获取世界坐标点(屏幕坐标点，opengl的坐标系)
+-- 2）从当前坐标点获取相对于某个CCNode的坐标点；
+-- 第一种情况，直接用:nodeParent->convertToWorldSpace(node->getPosition());
+-- 这里一定是需要转换坐标对象的父类调用convertToWorldSpace,参数是对象的坐标点(相对于父类的坐标点)；
+-- 返回的是屏幕坐标点；
+-- 第二种情况，直接用:node2->convertToNodeSpace(node1->getPosition);
+-- node2并不是node1的父类，现在的情况就是:node1想得到相对于node2坐标系的坐标点；
+-- 返回的是相对于node2坐标系的坐标点。
+-- 以上的调用，是没有考虑nodeParent和node2的anchorPoint的(就是使用了0,0的锚点)；考虑到锚点就使用：
+-- convertToWorldSpaceAR()和convertToNodeSpaceAR();具体含义了？
+-- nodeParent->convertToWorldSpaceAR(node->getPosition()):因为默认是0,0的锚点，
+-- 所以其得到的坐标点是ccpAdd(nodeParent->convertToWorldSpace(node->getPosition()),ccp(nodeParent->getContentSize.width*0.5,nodeParent->getContentSize.height*0.5))
+-- node2->convertToNodeSpaceAR(node1->getPosition):因为默认是0,0的锚点，
+-- 所以其得到的坐标点是ccpSub(nodeParent->convertToWorldSpace(node->getPosition()),ccp(node2->getContentSize.width*0.5,node2->getContentSize.height*0.5))
+-- -------------
+-- 以下已测
+-- 本地坐标转世界坐标
+local pos = node:getParent():convertToWorldSpace(
+    cc.p(node:getPositionX()
+        , node:getPositionY()))
+local x = pos.x
+local y = pos.y
+print("node x = " .. x .. " y = " .. y )

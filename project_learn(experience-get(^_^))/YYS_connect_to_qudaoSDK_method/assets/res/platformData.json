@@ -1,0 +1,21 @@
+{
+	"current" : "sina",
+	"landscape" : true,
+	"uc" : {
+		"id" : "uc",
+		"cpId" : 26473,
+		"gameId" : 551034,
+		"debugMode" : false
+	},
+	"umeng" : {
+		"appKey" : "547fda90fd98c544fa000375",
+		"debug" : false
+	},
+	"sina":{
+        "id":"sina",
+        "appKey":"3459585058",
+        "appSecret":"3fb93722c3aeea72554e8e5460e35103",
+        "verifyURL":"http://game.weibo.cn/sso.php"
+    }
+}
+

@@ -1,0 +1,121 @@
+01-09 17:09:13.625    4341-4341/org.cocos2dx.CocosLuaGame D/dalvikvm﹕ Late-enabling CheckJNI
+01-09 17:09:13.664    4341-4341/org.cocos2dx.CocosLuaGame I/dalvikvm﹕ Turning on JNI app bug workarounds for target SDK version 9...
+01-09 17:09:14.153    4341-4341/org.cocos2dx.CocosLuaGame I/SdkFacade﹕ current activity:com.baoyugame.sdk.SdkActivity@417e0800
+01-09 17:09:14.154    4341-4341/org.cocos2dx.CocosLuaGame D/SdkFacade﹕ readBytes size :409, from res/platformData.json
+01-09 17:09:14.165    4341-4341/org.cocos2dx.CocosLuaGame D/SdkFacade﹕ init platform sdk success!
+01-09 17:09:14.166    4341-4341/org.cocos2dx.CocosLuaGame D/SdkFacade﹕ get platformData: {"id":"sina","verifyURL":"http:\/\/game.weibo.cn\/sso.php","appSecret":"3fb93722c3aeea72554e8e5460e35103","appKey":"3459585058"}
+01-09 17:09:14.232    4341-4341/org.cocos2dx.CocosLuaGame I/SdkFacade﹕ init umeng stat :{"debug":false,"appKey":"547fda90fd98c544fa000375"}
+01-09 17:09:14.414    4341-4341/org.cocos2dx.CocosLuaGame D/dalvikvm﹕ Trying to load lib /data/data/org.cocos2dx.CocosLuaGame/lib/libcocos2dlua.so 0x417d8a08
+01-09 17:09:14.856    4341-4341/org.cocos2dx.CocosLuaGame D/dalvikvm﹕ Added shared lib /data/data/org.cocos2dx.CocosLuaGame/lib/libcocos2dlua.so 0x417d8a08
+01-09 17:09:14.861    4341-4341/org.cocos2dx.CocosLuaGame D/JniHelper﹕ JniHelper::setJavaVM(0x89e7b0), pthread_self() = 1074341276
+01-09 17:09:14.872    4341-4341/org.cocos2dx.CocosLuaGame D/main﹕ cocos_android_app_init
+01-09 17:09:14.886    4341-4341/org.cocos2dx.CocosLuaGame D/Cocos2dxActivity﹕ model=HUAWEI T8951
+01-09 17:09:14.886    4341-4341/org.cocos2dx.CocosLuaGame D/Cocos2dxActivity﹕ product=T8951
+01-09 17:09:14.886    4341-4341/org.cocos2dx.CocosLuaGame D/Cocos2dxActivity﹕ isEmulator=false
+01-09 17:09:14.908    4341-4341/org.cocos2dx.CocosLuaGame I/SdkFacade﹕ current activity:org.cocos2dx.lua.AppActivity@417edd58
+01-09 17:09:15.079    4341-4359/org.cocos2dx.CocosLuaGame D/libEGL﹕ loaded /system/lib/egl/libGLES_android.so
+01-09 17:09:15.094    4341-4359/org.cocos2dx.CocosLuaGame D/libEGL﹕ loaded /vendor/lib/egl/libEGL_mtk.so
+01-09 17:09:15.116    4341-4359/org.cocos2dx.CocosLuaGame D/libEGL﹕ loaded /vendor/lib/egl/libGLESv1_CM_mtk.so
+01-09 17:09:15.127    4341-4359/org.cocos2dx.CocosLuaGame D/libEGL﹕ loaded /vendor/lib/egl/libGLESv2_mtk.so
+01-09 17:09:15.235    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ {
+    gl.supports_vertex_array_object: true
+    gl.supports_BGRA8888: true
+    gl.supports_ATITC: false
+    gl.supports_S3TC: false
+    cocos2d.x.version: cocos2d-x 3.3
+    gl.supports_discard_framebuffer: true
+    cocos2d.x.compiled_with_profiler: false
+    gl.supports_PVRTC: true
+    cocos2d.x.build_type: DEBUG
+    gl.renderer: PowerVR SGX 531
+    gl.supports_ETC1: true
+    cocos2d.x.compiled_with_gl_state_cache: true
+    gl.version: OpenGL ES 2.0 build 1.8@905891
+    gl.supports_NPOT: true
+    gl.max_texture_units: 8
+    gl.vendor: Imagination Technologies
+    gl.max_texture_size: 2048
+    }
+01-09 17:09:15.379    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ create rendererRecreatedListener for GLProgramState
+01-09 17:09:15.583    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ Console: listening on  0.0.0.0 : 6010
+01-09 17:09:15.588    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ Console: listening on  0.0.0.0 : 6020
+01-09 17:09:16.127    4341-4359/org.cocos2dx.CocosLuaGame E/dalvikvm﹕ GC_FOR_ALLOC freed 280K, 5% free 9364K/9799K, paused 2ms+2ms
+01-09 17:09:16.142    4341-4359/org.cocos2dx.CocosLuaGame E/dalvikvm﹕ GC_FOR_ALLOC freed 1K, 5% free 9485K/9927K, paused 1ms+1ms
+01-09 17:09:18.256    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at src/main.luac. Possible missing file.
+01-09 17:09:18.256    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/main.lua
+01-09 17:09:18.258    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/init.luac. Possible missing file.
+01-09 17:09:18.258    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/init.lua
+01-09 17:09:18.262    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/cocos2d/Cocos2d.luac. Possible missing file.
+01-09 17:09:18.262    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/cocos2d/Cocos2d.lua
+01-09 17:09:18.269    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/cocos2d/Cocos2dConstants.luac. Possible missing file.
+01-09 17:09:18.269    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/cocos2d/Cocos2dConstants.lua
+01-09 17:09:18.284    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/cocos2d/extern.luac. Possible missing file.
+01-09 17:09:18.284    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/cocos2d/extern.lua
+01-09 17:09:18.286    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/cocos2d/bitExtend.luac. Possible missing file.
+01-09 17:09:18.287    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/cocos2d/bitExtend.lua
+01-09 17:09:18.289    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/cocos2d/DrawPrimitives.luac. Possible missing file.
+01-09 17:09:18.290    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/cocos2d/DrawPrimitives.lua
+01-09 17:09:18.299    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/cocos2d/Opengl.luac. Possible missing file.
+01-09 17:09:18.300    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/cocos2d/Opengl.lua
+01-09 17:09:18.303    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/cocos2d/OpenglConstants.luac. Possible missing file.
+01-09 17:09:18.304    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/cocos2d/OpenglConstants.lua
+01-09 17:09:18.316    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/cocosbuilder/CCBReaderLoad.luac. Possible missing file.
+01-09 17:09:18.316    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/cocosbuilder/CCBReaderLoad.lua
+01-09 17:09:18.320    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/cocosdenshion/AudioEngine.luac. Possible missing file.
+01-09 17:09:18.321    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/cocosdenshion/AudioEngine.lua
+01-09 17:09:18.323    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/cocostudio/CocoStudio.luac. Possible missing file.
+01-09 17:09:18.323    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/cocostudio/CocoStudio.lua
+01-09 17:09:18.330    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/cocos2d/json.luac. Possible missing file.
+01-09 17:09:18.330    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/cocos2d/json.lua
+01-09 17:09:18.335    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/cocostudio/StudioConstants.luac. Possible missing file.
+01-09 17:09:18.336    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/cocostudio/StudioConstants.lua
+01-09 17:09:18.338    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/ui/GuiConstants.luac. Possible missing file.
+01-09 17:09:18.338    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/ui/GuiConstants.lua
+01-09 17:09:18.346    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/ui/experimentalUIConstants.luac. Possible missing file.
+01-09 17:09:18.346    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/ui/experimentalUIConstants.lua
+01-09 17:09:18.347    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/extension/ExtensionConstants.luac. Possible missing file.
+01-09 17:09:18.348    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/extension/ExtensionConstants.lua
+01-09 17:09:18.352    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/network/NetworkConstants.luac. Possible missing file.
+01-09 17:09:18.352    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/network/NetworkConstants.lua
+01-09 17:09:18.354    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at cocos/spine/SpineConstants.luac. Possible missing file.
+01-09 17:09:18.356    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/cocos/spine/SpineConstants.lua
+01-09 17:09:18.357    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at baseclass.luac. Possible missing file.
+01-09 17:09:18.357    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/baseclass.lua
+01-09 17:09:18.400    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at src/game/sdk/MySDK.luac. Possible missing file.
+01-09 17:09:18.400    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/game/sdk/MySDK.lua
+01-09 17:09:18.403    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at game/sdk/AndroidSdk.luac. Possible missing file.
+01-09 17:09:18.403    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/game/sdk/AndroidSdk.lua
+01-09 17:09:18.405    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] MySDK:__init()
+01-09 17:09:18.412    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at game/sdk/platform/sina.luac. Possible missing file.
+01-09 17:09:18.413    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/game/sdk/platform/sina.lua
+01-09 17:09:18.415    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ cocos2d: fullPathForFilename: No file found at GameScene.luac. Possible missing file.
+01-09 17:09:18.416    4341-4359/org.cocos2dx.CocosLuaGame D/CCFileUtils-android.cpp﹕ relative path = src/GameScene.lua
+01-09 17:09:18.417    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] GameScene:ctor() : Enter the GameScene
+01-09 17:09:18.417    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] [LUA] send data to java----------------------------start
+01-09 17:09:18.418    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] __android_sdk_lua2java start
+01-09 17:09:18.418    4341-4359/org.cocos2dx.CocosLuaGame D/luajc﹕ LuaJavaBridge::callJavaStaticMethod(lua_State *L)
+01-09 17:09:18.418    4341-4359/org.cocos2dx.CocosLuaGame D/JniHelper﹕ JniHelper::getJavaVM(), pthread_self() = 12353168
+01-09 17:09:18.419    4341-4359/org.cocos2dx.CocosLuaGame D/SdkFacade﹕ call from lua: {"params":{"parm1":"txt123","parm3":true,"parm2":123},"action":"showLogin"}
+01-09 17:09:18.420    4341-4359/org.cocos2dx.CocosLuaGame D/PlatformSdk_sina﹕ [JAVA] decode data from lua----------------------------start
+01-09 17:09:18.420    4341-4359/org.cocos2dx.CocosLuaGame D/PlatformSdk_sina﹕ parm1 = txt123
+01-09 17:09:18.421    4341-4359/org.cocos2dx.CocosLuaGame D/PlatformSdk_sina﹕ parm2 = 123
+01-09 17:09:18.421    4341-4359/org.cocos2dx.CocosLuaGame D/PlatformSdk_sina﹕ parm3 = true
+01-09 17:09:18.421    4341-4359/org.cocos2dx.CocosLuaGame D/PlatformSdk_sina﹕ [JAVA] decode data from lua----------------------------end
+01-09 17:09:18.421    4341-4359/org.cocos2dx.CocosLuaGame D/PlatformSdk_sina﹕ [JAVA] send data to lua----------------------------start
+01-09 17:09:18.422    4341-4359/org.cocos2dx.CocosLuaGame I/SdkFacade﹕ start call lua
+01-09 17:09:18.427    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] __android_sdk_java2lua:{"parmb2":123,"action":"loginCallback","parmb3":true,"eventType":"LoginSuccess","parmb1":"txt123"}
+01-09 17:09:18.428    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] [AndroidSDK] onCallback: table: 0x4e294c28function: 0x4d5094c0
+01-09 17:09:18.429    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] [AndroidSDK] calling callback
+01-09 17:09:18.429    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] [LUA] decode data from java----------------------------start
+01-09 17:09:18.429    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] onCallback(obj):obj.parmb1 = txt123
+01-09 17:09:18.429    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] onCallback(obj):obj.parmb2 = 123
+01-09 17:09:18.430    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] onCallback(obj):obj.parmb3 = true
+01-09 17:09:18.430    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] [LUA] decode data from java----------------------------end
+01-09 17:09:18.432    4341-4359/org.cocos2dx.CocosLuaGame I/SdkFacade﹕ call to lua:{"parmb2":123,"action":"loginCallback","parmb3":true,"eventType":"LoginSuccess","parmb1":"txt123"}
+01-09 17:09:18.432    4341-4359/org.cocos2dx.CocosLuaGame D/PlatformSdk_sina﹕ [JAVA] send data to lua----------------------------end
+01-09 17:09:18.435    4341-4359/org.cocos2dx.CocosLuaGame D/SdkFacade﹕ call platform sdk method success! params:{"parm2":123,"parm3":true,"parm1":"txt123"}
+01-09 17:09:18.435    4341-4359/org.cocos2dx.CocosLuaGame D/luajc﹕ LuaJavaBridge::callJavaStaticMethod("com.baoyugame.sdk.SdkFacade", "callFromLua", args, "(Ljava/lang/String;)V") SUCCESS
+01-09 17:09:18.435    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] __android_sdk_lua2java:true
+01-09 17:09:18.435    4341-4359/org.cocos2dx.CocosLuaGame D/cocos2d-x debug info﹕ [LUA-print] [LUA] send data to java----------------------------end
+01-09 17:09:26.325    4341-4345/org.cocos2dx.CocosLuaGame I/dalvikvm﹕ threadid=3: reacting to signal 3
+01-09 17:09:26.330    4341-4345/org.cocos2dx.CocosLuaGame I/dalvikvm﹕ Wrote stack traces to '/data/anr/traces.txt'

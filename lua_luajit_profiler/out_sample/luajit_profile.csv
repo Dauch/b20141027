@@ -1,0 +1,1077 @@
+File Name, Line, Function Name, Call Times, Full Call Clock(Total), Full Call Clock(Avg.), Inner Call Clock(Total), Inner Call Clock(Avg.), Native Call Clock(Total), Native Call Clock(Avg.)
+[native object].setDelegate,-1, [native code],2,0,0,0,0,0,0
+.\src\firework/framework/DataManager.lua,45, getNewIni,6,1871249,311874,10008,1668,0,0
+.\src\game/module/battle/BattleLayer.lua,270, afterCompleted,14,0,0,0,0,0,0
+[native object].setPosition,-1, [native code],4156,64765710,15583,440504,105,64204952,15448
+.\src\cocos/cocos2d/functions.lua,230, new,910,211891188,232847,300229,329,4973374,5465
+.\src\firework/util/Csv.lua,72, getRow,56,10005,178,10005,178,0,0
+.\src\firework/uilib/UIProgressButton.lua,12, initWithCfg,20,430153,21507,20082,1004,410071,20503
+[native object].setZoomOnTouchDown,-1, [native code],4,810672,202668,0,0,810672,202668
+.\src\firework/uilib/details/ApiAdapter.lua,121, adapterCCLabelSystemFont,298,170171,571,60060,201,110111,369
+.\src\firework/framework/MeasureManager.lua,53, finishMeasureByName,6,18492337,3082056,0,0,18492337,3082056
+field.time,-1, [native code],2678,2661783,993,360165,134,1441064,538
+.\src\game/module/navigation/WorldMapLayer.lua,346, ,4,9993,2498,0,0,9993,2498
+[native object].stopMusic,-1, [native code],6,0,0,0,0,0,0
+main:.\src\game/module/battle/behaviors/ArrowAi1052.lua,0, ,2,0,0,0,0,0,0
+.\src\game/measure/PreLoadingMeasure.lua,24, onRemove,2,0,0,0,0,0,0
+global.assert,-1, [native code],62606,1013486544,16188,8795808,140,414167929,6615
+.\src\game/module/battle/impl/BattleViewLayer.lua,786, getBattleLayer,34,20023,588,0,0,20023,588
+[native object].getStringFromFile,-1, [native code],102,52294846,512694,14070179,137942,33761952,330999
+.\src\game/module/navigation/NavigationData.lua,319, setGoldNum,6,0,0,0,0,0,0
+#root,0, @root,1,0,0,0,0,0,0
+.\src\cocos/cocos2d/functions.lua,136, setmetatableindex,966,610610,632,110126,114,500484,518
+.\src\firework/uilib/UIParser.lua,70, Parser,280,4212824,15045,20046,71,4192778,14974
+.\src\game/module/navigation/NavigationData.lua,78, ,150,20023,133,20023,133,0,0
+.\src\game/common/ViewHelper.lua,589, callback,2,0,0,0,0,0,0
+.\src\firework/uilib/details/ApiAdapter.lua,7, Parent,2292,800426,349,340216,148,460210,200
+.\src\game/module/battle/behaviors/GeneralAi2008.lua,12, ctor,2,0,0,0,0,0,0
+.\src\game/module/update/UpdateModule.lua,20, ,2,30037,15018,9999,4999,0,0
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,93, playSkillEffect,2,0,0,0,0,0,0
+.\src\game/measure/UpdateMeasure.lua,74, ,6,20013,3335,0,0,0,0
+.\src\game/module/battle/behaviors/BattleMgrPolicy.lua,32, _hpCL,32,20085,627,0,0,20085,627
+[native object].getInstance,-1, [native code],632,775435178,1226954,180221,285,775254957,1226669
+.\src\firework/util/Ini.lua,22, ,2586,580282,224,410350,158,169932,65
+.\src\game/module/update/UpdateModule.lua,166, checkLocalVersionFile,2,20038,10019,0,0,20038,10019
+.\src\game/entity/BowEntity.lua,75, getCfgByKey,2124,1291265,607,290364,136,1000901,471
+.\src\firework/uilib/UIParser.lua,170, Parser,92,12738741,138464,30009,326,0,0
+.\src\game/module/task/taskGuide.lua,16, ctor,2,4973374,2486687,0,0,4973374,2486687
+.\src\firework/util/Ini.lua,8, ctor,10,3122100,312210,10139,1013,0,0
+.\src\firework/framework/DataManager.lua,15, getNewCsv,92,52325640,568756,80074,870,0,0
+[native object].format,-1, [native code],30518,874509358,28655,6003989,196,753979149,24706
+.\src\firework/framework/DataManager.lua,62, getIni,6,1881254,313542,10005,1667,0,0
+.\src\game/entity/SkeletonEntity.lua,205, afterRunActionFinish,418,2201338,5266,40026,95,0,0
+.\src\firework/uilib/UICreator.lua,26, newCCCheckBox,2,30009,15004,0,0,30009,15004
+field.close,-1, [native code],104,10015,96,10015,96,0,0
+.\src\firework/util/FileIo.lua,5, exists,102,2912379,28552,20004,196,2892375,28356
+.\src\game/module/navigation/WorldMapLayer.lua,226, showCityInfoBoard,2,10008,5004,0,0,10008,5004
+.\src\game/module/navigation/NavigationData.lua,308, ,3136,1751351,558,1201039,382,170085,54
+global.require,-1, [native code],158,23706075,150038,30021,190,23646088,149658
+field.open,-1, [native code],104,2912392,28003,2892365,27811,20027,192
+global.type,-1, [native code],60764,263707343,4339,9016267,148,254110629,4181
+.\src\firework/cocos2dx/Registry.lua,45, setObject,12,0,0,0,0,0,0
+.\src\firework/uilib/UIIconButton.lua,11, initWithCfg,92,12358427,134330,49894,542,12298528,133679
+.\src\game/common/VoiceMgr.lua,29, setEfficeVol,2,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationData.lua,129, getItemName,24,4723072,196794,19998,833,4703074,195961
+.\src\game/module/battle/behaviors/BattleMgrPolicy.lua,61, ,40,9346264,233656,0,0,9346264,233656
+global.getmetatable,-1, [native code],1178,16611349,14101,230152,195,16381197,13905
+.\src\game/module/battle/behaviors/BowAi.lua,9, onBind_,2,0,0,0,0,0,0
+[native object].setSwallowTouches,-1, [native code],26,70021,2693,10008,384,60013,2308
+.\src\game/module/navigation/NavigationData.lua,109, politicalIds,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1044.lua,6, ctor,2,10073,5036,0,0,0,0
+main:.\src\game/module/battle/behaviors/GeneralAi2008.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationLayer.lua,877, checkSignState,112,1421017,12687,19955,178,1401062,12509
+global.setmetatable,-1, [native code],1012,70022,69,70022,69,0,0
+.\src\firework/cocos2dx/StateMachine.lua,108, cannotDoEvent,1188,229931,193,200068,168,0,0
+.\src\firework/uilib/UICreator.lua,36, newS9Sprite,150,640455,4269,20007,133,0,0
+.\src\firework/util/Ini.lua,14, load,10,3111961,311196,0,0,3111961,311196
+.\src\firework/framework/Measure.lua,9, getName,6,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1055.lua,30, onBind_,2,9993,4996,0,0,0,0
+[native object].setFlippedX,-1, [native code],10,650488,65048,0,0,650488,65048
+metamethod.__index,-1, [native code],397226,14577314360,36697,74469424,187,13331760164,33562
+.\src\firework/util/Ini.lua,19, split,10,900510,90051,0,0,900510,90051
+.\src\firework/cocos2dx/StateMachine.lua,181, doEvent,1188,7475492,6292,340218,286,0,0
+.\src\cocos/cocosdenshion/AudioEngine.lua,59, playEffect,262,255889241,976676,40017,152,255849224,976523
+.\src\game/module/navigation/NavigationData.lua,84, getSkillIds,6,30015,5002,10005,1667,20010,3335
+.\src\game/module/battle/behaviors/BattleMgrPolicy.lua,72, exportMethods,2,0,0,0,0,0,0
+field.gsub,-1, [native code],7476,140073220,18736,13418166,1794,18752826,2508
+[native object].runAction,-1, [native code],1354,26497837,19570,230177,169,1531470,1131
+field.insert,-1, [native code],102806,1695611940,16493,10225950,99,1652924619,16078
+[native object].setTextureRect,-1, [native code],4,20013,5003,10005,2501,10008,2502
+.\src\game/module/battle/impl/BattleCityViewLayer.lua,152, ctor,4,2351559,587889,10008,2502,2341551,585387
+.\src\game/measure/LoginMeasure.lua,26, wakeupLoginUpdateM,2,120142,60071,0,0,0,0
+global.ipairs,-1, [native code],52548,605659396,11525,8765599,166,596893797,11359
+field.date,-1, [native code],114,70101,614,10005,87,60096,527
+local.(for generator),-1, [native code],234372,6295667616,26861,61949150,264,3917895814,16716
+.\src\game/module/battle/behaviors/ArrowAi1052.lua,50, getAttackTarget,3452,660483,191,490364,142,0,0
+.\src\game/entity/SkeletonAnmi.lua,17, ,8,0,0,0,0,0,0
+[native object].setContainer,-1, [native code],2,0,0,0,0,0,0
+[native object].match,-1, [native code],5288,1178616511,222885,1050631,198,1176194863,222427
+.\src\firework/cocos2dx/Component.lua,44, bind_,218,1941357,8905,70000,321,1871357,8584
+[native object].getRunningScene,-1, [native code],16,640415,40025,10005,625,630410,39400
+.\src\firework/cocos2dx/GameObject.lua,20, addComponent,218,2791910,12806,49982,229,0,0
+global.tonumber,-1, [native code],38198,2348464245,61481,6123787,160,2222880613,58193
+.\src\game/module/navigation/NavigationData.lua,86, ,30,20010,667,10005,333,10005,333
+.\src\game/module/login/LoginLayer.lua,9, __create,2,19961,9980,0,0,19961,9980
+.\src\firework/framework/EntityMgrDriver.lua,5, ctor,4,0,0,0,0,0,0
+.\src\game/entity/ArrowEntity.lua,58, updateCefos01,3020,240284,79,240284,79,0,0
+global.tostring,-1, [native code],110176,2363872335,21455,13768745,124,2316231102,21023
+.\src\game/module/battle/impl/BattleManager.lua,252, getFriendSideCount,42,0,0,0,0,0,0
+.\src\firework/framework/MeasureManager.lua,67, onFINISH_MEASURE,6,204636493,34106082,0,0,0,0
+[native object].enableShadow,-1, [native code],2,1040747,520373,0,0,1040747,520373
+field.format,-1, [native code],62268,1192400881,19149,12308188,197,1099967102,17665
+.\src\game/module/battle/BattleModule.lua,40, ,2,30115,15057,0,0,0,0
+.\src\firework/util/AnchorPoint.lua,13, leftBottom,186,30300412,162905,89995,483,8335580,44814
+.\src\game/module/battle/behaviors/SkeletonAi.lua,27, doAiAction,13026,207327094,15916,8726376,669,22084738,1695
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,97, playAttackEffect,52,29159088,560751,10002,192,29149086,560559
+[native object].setDirection,-1, [native code],46,10052,218,10052,218,0,0
+.\src\game/entity/SkeletonEntity.lua,62, thisActionFinishCall,418,2311416,5529,110078,263,0,0
+[native object].setMaxLengthEnabled,-1, [native code],2,30015,15007,0,0,30015,15007
+[native object].setAnchorPoint,-1, [native code],1070,11898305,11119,160197,149,11708084,10942
+.\src\game/module/update/UpdateModule.lua,122, fadeToDownLogo,2,0,0,0,0,0,0
+[native object].create,-1, [native code],4156,228300576,54932,12058004,2901,211519500,50894
+.\src\game/module/battle/impl/BattleManager.lua,215, friendSideDead,14,49977,3569,0,0,10015,715
+.\src\game/module/navigation/WorldMapCityView.lua,277, setFocus,6,40032,6672,0,0,40032,6672
+main:.\src\game/entity/MeleeEntity.lua,0, ,2,40027,20013,0,0,40027,20013
+.\src\firework/cocos2dx/EventProtocol.lua,21, addEventListener,228,220145,965,70023,307,150122,658
+.\src\game/module/update/UpdateModule.lua,42, ,2,18762509,9381254,0,0,18762509,9381254
+.\src\game/module/navigation/NavigationData.lua,161, isCityBroken,228,14879983,65263,90069,395,14759902,64736
+[native object].removeChild,-1, [native code],2,18762509,9381254,0,0,0,0
+.\src\firework/uilib/UICreator.lua,40, newLoadingBar,96,880552,9172,10002,104,0,0
+.\src\firework/cocos2dx/StateMachine.lua,237, addEvent_,352,210212,597,70098,199,140114,398
+.\src\game/measure/UpdateMeasure.lua,26, endUpdateH_,2,18762509,9381254,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1024.lua,6, ctor,4,0,0,0,0,0,0
+.\src\game/entity/CityEntity.lua,17, getBattleMgr,6,0,0,0,0,0,0
+.\src\firework/cocos2dx/Registry.lua,51, getObject,98232,6764580,68,6764580,68,0,0
+.\src\game/module/battle/impl/BattleCityViewLayer.lua,237, setTriggerFixGameBtnVisible,8,10014,1251,0,0,10014,1251
+field.upper,-1, [native code],48790,2031091256,41629,17432607,357,607817610,12457
+global.clone,-1, [native code],6,220145,36690,10006,1667,0,0
+.\src\game/module/battle/impl/BattleManager.lua,286, setTotalEnemyNums,2,0,0,0,0,0,0
+[native object].maxContainerOffset,-1, [native code],4,20012,5003,0,0,20012,5003
+.\src\firework/framework/Measure.lua,13, getNextName,6,0,0,0,0,0,0
+field.find,-1, [native code],3454,128328336,37153,620404,179,126977254,36762
+.\src\game/module/navigation/WorldMapLayer.lua,235, hideCityInfoBoard,114,50010,438,19992,175,30018,263
+.\src\game/common/VoiceMgr.lua,6, initMusicAndEffectVol,2,9952,4976,0,0,9952,4976
+.\src\firework/cocos2dx/Component.lua,36, dispatchEvent,24790,864980066,34892,6143558,247,25276581,1019
+[native object].getContentSize,-1, [native code],948,33732860,35583,5213399,5499,23465947,24753
+.\src\cocos/cocos2d/Cocos2d.lua,278, c3b,92,0,0,0,0,0,0
+.\src\firework/cocos2dx/EventProtocol.lua,48, dispatchEvent,140,468044446,3343174,9950,71,468034496,3343103
+.\src\game/module/battle/behaviors/SoldierHp.lua,5, ctor,34,0,0,0,0,0,0
+.\src\cocos/cocos2d/Cocos2d.lua,31, pAdd,12,0,0,0,0,0,0
+global.pairs,-1, [native code],1382,940432134,680486,1130637,818,465242774,336644
+.\src\game/module/battle/behaviors/SoldierHp.lua,39, update,116,160085,1380,29991,258,130094,1121
+.\src\game/entity/CityEntity.lua,57, setHpBar,4,0,0,0,0,0,0
+.(null),-1, [native code],220,46901813,213190,7114800,32340,38876364,176710
+.\src\game/module/battle/behaviors/ArrowAi1021.lua,49, stopAction,66,550256,8337,30012,454,50017,757
+.\src\game/entity/SkeletonEntity.lua,42, afterThisEvent_,148,110067,743,50026,338,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,337, onClicked,10,5063371,506337,0,0,4993384,499338
+.\src\firework/framework/MeasureManager.lua,17, ,6,204636493,34106082,0,0,0,0
+.\src\game/module/battle/impl/BattleBackgroundViewLayer.lua,211, getViewLength,4,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleManager.lua,78, startMgr,2,0,0,0,0,0,0
+main:.\src\game/module/battle/behaviors/BattleMgrPolicy.lua,0, ,2,0,0,0,0,0,0
+.\src\game/measure/UpdateMeasure.lua,61, onFinish,2,18492337,9246168,0,0,16611083,8305541
+main:.\src\game/module/navigation/NavigationData.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/navigation/WorldMapLayer.lua,20, callback,2,0,0,0,0,0,0
+[native object].removeFromParent,-1, [native code],286,104912058,366825,7054563,24666,50028,174
+.\src\firework/uilib/UIParser.lua,13, strictLoopWithGivenList,832,61582571,74017,150061,180,61432510,73837
+.\src\game/module/navigation/NavigationData.lua,9, ctor,2,110075,55037,60040,30020,0,0
+.\src\game/module/battle/behaviors/SoldierAi1052.lua,121, beAttacked,10,130100,13010,0,0,130100,13010
+[native object].findChildren,-1, [native code],2,320213,160106,10011,5005,310202,155101
+.\src\cocos/cocos2d/functions.lua,175, class,102,59999,588,0,0,59999,588
+.\src\game/entity/SkeletonEntity.lua,119, setAngryCtrl,10,550373,55037,0,0,550373,55037
+.\src\firework/util/Ini.lua,61, get,52296,3552192,67,3552192,67,0,0
+.\src\game/module/navigation/NavigationLayer.lua,461, callback,2,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationData.lua,111, ,10,0,0,0,0,0,0
+.\src\firework/cocos2dx/StateMachine.lua,46, ctor,38,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationData.lua,76, getSoldierIds,6,60037,10006,0,0,60037,10006
+.\src\game/module/battle/behaviors/BattleMgrPolicy.lua,80, mgrPolicy,40,9316252,232906,20004,500,9126066,228151
+.\src\game/module/battle/BattleLayer.lua,201, showControllLayer,2,2611756,1305878,0,0,2611756,1305878
+.\src\game/module/battle/impl/BattleManager.lua,230, update,1520,27967472,18399,450340,296,0,0
+.\src\cocos/cocosdenshion/AudioEngine.lua,51, preloadMusic,6,20013,3335,0,0,20013,3335
+.\src\game/module/activity/ApHelper.lua,86, getRemainTime,184,30018,163,30018,163,0,0
+main:.\src\game/module/login/LoginLayer.lua,0, ,2,60099,30049,0,0,60099,30049
+.\src\game/module/battle/behaviors/SoldierAi1055.lua,89, getAttackTarget,88,30025,341,20016,227,0,0
+.\src\game/module/navigation/NavigationData.lua,92, getGeneralIds,10,49911,4991,0,0,49911,4991
+.\src\game/module/navigation/NavigationData.lua,94, ,160,49911,311,39906,249,10005,62
+.\src\game/module/battle/behaviors/SoldierAi1035.lua,53, attackTarget,10,3502317,350231,20019,2001,0,0
+.\src\game/module/battle/behaviors/GeneralShowSpeech.lua,104, ,10,20017,2001,9999,999,0,0
+[native object].preloadMusic,-1, [native code],6,0,0,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,155, setCefos01,13026,890560,68,890560,68,0,0
+.\src\game/measure/UpdateMeasure.lua,79, ,24,13809208,575383,10018,417,0,0
+.\src\game/module/battle/BattleSettingLayer.lua,682, startTimer,2,10015,5007,0,0,0,0
+.\src\firework/uilib/UIComponent.lua,23, add2Node,4,0,0,0,0,0,0
+.\src\cocos/cocosdenshion/AudioEngine.lua,79, preloadEffect,24,13799190,574966,10012,417,13789178,574549
+[native object].preloadEffect,-1, [native code],24,13779164,574131,13779164,574131,0,0
+.\src\firework/uilib/UICreator.lua,14, newS9Sprite,150,620448,4136,40035,266,580413,3869
+[native object].getEventDispatcher,-1, [native code],52,99938944,1921902,19988,384,99918956,1921518
+.\src\game/entity/CityEntity.lua,102, depatchBloodChange,32,30096,940,10011,312,0,0
+.\src\cocos/cocosdenshion/AudioEngine.lua,39, playMusic,8,4953287,619160,0,0,4953287,619160
+[native object].playMusic,-1, [native code],8,4953287,619160,4953287,619160,0,0
+.\src\firework/framework/MeasureManager.lua,44, launchMeasureByName,6,179319676,29886612,0,0,179319676,29886612
+.\src\firework/cocos2dx/StateMachine.lua,88, getState,220,0,0,0,0,0,0
+.\src\game/measure/LoginMeasure.lua,9, onLaunch,2,120142,60071,0,0,120142,60071
+.\src\cocos/cocos2d/functions.lua,159, clone,872,17582061,20162,140105,160,17441956,20002
+.\src\game/module/navigation/NavigationData.lua,133, getSoldierLevelById,50,2171444,43428,30021,600,2131415,42628
+.\src\firework/framework/EntityMgrDriver.lua,22, removeEntity,104,730362,7022,60039,577,370143,3559
+global.print,-1, [native code],12,15820578,1318381,9949,829,6954727,579560
+.\src\game/module/battle/behaviors/BowAi.lua,13, ,1520,150137,98,150137,98,0,0
+.\src\game/module/battle/BattleSettingLayer.lua,670, PlayBattleSettingLayerAni,2,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationData.lua,141, getSoldierDataFileById,50,43589724,871794,0,0,0,0
+.\src\game/module/battle/BattleSettingLayer.lua,307, callback,2,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationLayer.lua,315, callback,2,10011,5005,0,0,10011,5005
+.\src\game/module/login/LoginModule.lua,27, setEndLoginH,2,0,0,0,0,0,0
+.\src\firework/uilib/UIIconButton.lua,7, ctor,92,12378447,134548,0,0,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,23, ,6384,67585100,10586,1090772,170,0,0
+upvalue._copy,-1, [native code],262,16101032,61454,60046,229,5784048,22076
+.\src\game/module/activity/ApHelper.lua,35, saveAp,2,10009,5004,10009,5004,0,0
+.\src\firework/framework/ModuleManager.lua,20, ,14,188017760,13429840,9996,714,0,0
+.\src\firework/framework/ModuleManager.lua,68, onCHANGE_MODULE,14,188007764,13429126,0,0,186696811,13335486
+.\src\game/entity/SkeletonEntity.lua,5, ctor,34,1180680,34725,40020,1177,0,0
+.\src\game/module/login/LoginLayer.lua,132, onEnterGameClicked,2,96424312,48212156,0,0,96424312,48212156
+.\src\game/entity/CityEntity.lua,53, setCRect,4,0,0,0,0,0,0
+.\src\firework/framework/ModuleManager.lua,38, initModule,18,2491756,138430,0,0,2491756,138430
+main:.\src\game/module/battle/impl/BattleManager.lua,0, ,2,9995,4997,0,0,9995,4997
+.\src\game/module/battle/behaviors/SkeletonAi.lua,64, asyncFn,642,2231515,3475,150093,233,0,0
+.\src\game/entity/SkeletonEntity.lua,88, afterThisEvent_,46,10005,217,10005,217,0,0
+.\src\game/module/battle/BattleModule.lua,14, init,2,96706804,48353402,0,0,96706804,48353402
+.\src\firework/framework/Module.lua,60, getLayer,328,20063,61,20063,61,0,0
+.\src\firework/cocos2dx/Registry.lua,32, newObject,534,763500679,1429776,90095,168,763410584,1429607
+global.pcall,-1, [native code],68,245045675,3603612,19992,294,237680802,3495305
+.\src\game/module/navigation/NavigationLayer.lua,830, checkRwState,112,7595029,67812,20011,178,7575018,67634
+.\src\firework/cocos2dx/Registry.lua,36, ,68,7344881,108012,0,0,7344881,108012
+.\src\game/entity/CityEntity.lua,70, beAttacked,32,19072568,596017,20004,625,19042559,595079
+main:.\src\game/common/ViewHelper.lua,0, ,2,0,0,0,0,0,0
+[native object].setPositionY,-1, [native code],20,1130812,56540,10011,500,1120801,56040
+.\src\game/module/battle/behaviors/GeneralShowSpeech.lua,30, setSoliderImg,10,830523,83052,0,0,830523,83052
+main:.\src\game/module/activity/ApHelper.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleManager.lua,121, addFriendSide,14,10967352,783382,10005,714,10957347,782667
+main:.\src\game/common/VoiceMgr.lua,0, ,2,0,0,0,0,0,0
+.\src\firework/cocos2dx/StateMachine.lua,265, afterAnyEvent_,1310,350269,267,280218,213,0,0
+[native object].addSpriteFrames,-1, [native code],8,380712959,47589119,3372487,421560,284016129,35502016
+main:.\src\game/config/randomNames.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/battle/BattleLayer.lua,413, addItemInfo,14,4733074,338076,10002,714,4723072,337362
+main:.\src\game/module/battle/behaviors/BowAi.lua,0, ,2,0,0,0,0,0,0
+.\src\firework/cocos2dx/Registry.lua,16, add,68,70034,1029,10011,147,60023,882
+.\src\game/module/battle/impl/BattleViewLayer.lua,749, ,34,10008,294,10008,294,0,0
+.\src\game/entity/CityEntity.lua,5, ctor,4,0,0,0,0,0,0
+field.__create,-1, [native code],54,34933232,646911,200154,3706,34672907,642090
+[native object].setScale,-1, [native code],114,32061579,281241,20004,175,32041575,281066
+metamethod.__newindex,-1, [native code],426,311792390,731907,90112,211,308530271,724249
+[native object].getAnimationData,-1, [native code],710,2791894,3932,170198,239,2621696,3692
+field.getpeer,-1, [native code],56,50163,895,10008,178,40155,717
+.\src\game/module/battle/BattleSettingLayer.lua,6, __create,2,5303534,2651767,9993,4996,5293541,2646770
+field.setpeer,-1, [native code],56,40155,717,0,0,0,0
+.\src\game/entity/CityEntity.lua,49, getCRect,15978,860627,53,860627,53,0,0
+.\src\game/module/activity/ApHelper.lua,90, formatTime,90,140121,1556,10005,111,130116,1445
+.\src\cocos/cocos2d/Cocos2d.lua,248, rectIntersectsRect,81206,5454045,67,5454045,67,0,0
+.\src\firework/uilib/UIParser.lua,216, callback,1948,1650945,847,350211,179,1300734,667
+.\src\game/module/login/LoginLayer.lua,15, ctor,2,9952,4976,0,0,0,0
+.\src\firework/uilib/UIProgressButton.lua,36, callback,20,20023,1001,0,0,20023,1001
+[native object].getStringForKey,-1, [native code],4,19904,4976,0,0,19904,4976
+.\src\firework/util/AnchorPoint.lua,5, leftTop,30,43498841,1449961,10005,333,0,0
+.\src\game/common/VoiceMgr.lua,24, setMusicVol,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1025.lua,6, ctor,4,10009,2502,10009,2502,0,0
+.\src\game/module/sign/SignDataMgr.lua,52, getMinSignDay,2,0,0,0,0,0,0
+[native object].setMusicVolume,-1, [native code],2,0,0,0,0,0,0
+.\src\firework/util/VisibleRect.lua,36, rightTop,16,2181448,136340,0,0,2181448,136340
+.\src\game/module/navigation/WorldMapLayer.lua,307, refresh,112,68585788,612373,30016,268,0,0
+[native object].scheduleScriptFunc,-1, [native code],12,0,0,0,0,0,0
+[native object].setEffectsVolume,-1, [native code],2,0,0,0,0,0,0
+.\src\game/entity/MeleeEntity.lua,12, getAttackRect,30648,300129982,9792,8705727,284,0,0
+main:.\src\game/entity/ArrowEntity.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/login/LoginLayer.lua,178, enableKeyEvent,2,0,0,0,0,0,0
+[native object].registerScriptHandler,-1, [native code],166,3142091,18928,70059,422,3072032,18506
+[native object].addEventListenerWithSceneGraphPriority,-1, [native code],34,2101406,61806,9989,293,980675,28843
+.\src\firework/framework/Module.lua,41, setLayer,14,6854663,489618,10070,719,6844593,488899
+.\src\game/module/navigation/NavigationLayer.lua,318, ,112,7635067,68170,30033,268,7605034,67902
+[native object].retain,-1, [native code],8,0,0,0,0,0,0
+.\src\firework/uilib/details/ApiAdapter.lua,29, Parent,4,10005,2501,0,0,10005,2501
+.\src\firework/framework/Module.lua,22, getCfgByKey,8,9993,1249,0,0,9993,1249
+.\src\game/entity/SkeletonEntity.lua,281, ,10616,33942658,3197,1630878,153,0,0
+.\src\firework/uilib/UIParser.lua,36, Parser,146,880608,6031,9999,68,870609,5963
+[native object].loadTexture,-1, [native code],92,460322,5003,400276,4350,60046,652
+[native object].getFriendBornPos,-1, [native code],18,10967373,609298,0,0,70059,3892
+.\src\game/entity/SkeletonEntity.lua,100, thisActionFinishCall,14,230023,16430,10011,715,0,0
+.\src\game/module/login/LoginModule.lua,12, onAdd2StageHandler,2,9999,4999,0,0,9999,4999
+.\src\game/module/battle/BattleLayer.lua,365, ,2,0,0,0,0,0,0
+[native object].setViewSize,-1, [native code],2,0,0,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,77, thisActionFinishCall,2,10120,5060,0,0,0,0
+[native object].getParent,-1, [native code],1020,350837543,343958,300329,294,349036396,342192
+[native object].addChild,-1, [native code],3088,835433523,270541,1010808,327,659534383,213579
+.\src\game/entity/SkeletonAnmi.lua,70, getPositionX,37964,1215277960,32011,6313848,166,1208964112,31845
+.\src\game/entity/SkeletonEntity.lua,84, afterThisEvent_,66,550297,8337,30028,454,0,0
+.\src\game/module/login/LoginLayer.lua,31, ,10,9999,999,0,0,9999,999
+[native object].getCurrentMovementID,-1, [native code],960,24566433,25590,180123,187,0,0
+[native object].setVisible,-1, [native code],34166,379936501,11120,5994041,175,275744627,8070
+[native object].setMidpoint,-1, [native code],20,0,0,0,0,0,0
+.\src\firework/uilib/details/ApiAdapter.lua,18, Show,186,30075,161,9999,53,20076,107
+.\src\firework/cocos2dx/StateMachine.lua,257, beforeThisEvent_,11504,7745177,673,910561,79,0,0
+.\src\game/module/battle/AdjustableContainer.lua,17, ctor,8,50025,6253,0,0,50025,6253
+.\src\game/common/DataStatMgr.lua,81, stat,24,30008,1250,0,0,30008,1250
+field.remove,-1, [native code],196,31910617,162809,40027,204,31870590,162605
+.\src\firework/cocos2dx/StateMachine.lua,116, doEventForce,122,1310882,10744,50032,410,0,0
+.\src\game/module/battle/behaviors/SoldierAi1024.lua,12, leave,36,140103,3891,0,0,0,0
+[native object].getTargetPlatform,-1, [native code],24,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/BattleMgrPolicy.lua,13, onBind_,2,80066,40033,0,0,80066,40033
+.\src\firework/framework/MeasureManager.lua,20, ,6,6814478,1135746,0,0,0,0
+[native object].setTitleFontName,-1, [native code],18,210067,11670,210067,11670,0,0
+.\src\game/module/navigation/NavigationData.lua,117, cityIds,4,100049,25012,9999,2499,90050,22512
+.\src\game/module/battle/impl/BattleSummaryLayer.lua,15, ctor,2,1831102,915551,0,0,1831102,915551
+[native object].setRotation,-1, [native code],98,20000,204,20000,204,0,0
+.\src\game/module/battle/impl/BattleManager.lua,256, plusFriendSide1,14,30019,2144,0,0,30019,2144
+.\src\firework/framework/MeasureManager.lua,80, onREMOVE_MEASURE,6,6814478,1135746,0,0,0,0
+.\src\game/module/battle/impl/BattleManager.lua,239, getCsvCache,44,0,0,0,0,0,0
+.\src\firework/framework/MeasureManager.lua,34, removeMeasureByName,6,6814478,1135746,0,0,6814478,1135746
+.\src\game/module/battle/AdjustableContainer.lua,31, addItem,112,3902798,34846,10015,89,3892783,34756
+local.newWithinLocalTextureType,-1, [native code],146,520370,3564,200130,1370,0,0
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,64, attackImpl,62,30700260,495165,19955,321,0,0
+.\src\game/measure/UpdateMeasure.lua,87, onRemove,2,9940,4970,0,0,9940,4970
+.\src\game/entity/ArrowEntity.lua,45, canBeAttacked,23812,1441314,60,1441314,60,0,0
+.\src\game/module/update/UpdateModule.lua,186, onRemove,2,9940,4970,0,0,9940,4970
+.\src\game/module/battle/BattleSettingLayer.lua,434, updateBtnStateAndLevelLabel,6,43909899,7318316,9996,1666,42068690,7011448
+.\src\firework/framework/Module.lua,48, ,6,0,0,0,0,0,0
+.\src\game/module/update/UpdateLayer.lua,3, __create,2,120080,60040,10005,5002,110075,55037
+.\src\game/module/battle/impl/BattleManager.lua,18, getEnmeyEntityListCallback_,1520,5003531,3291,590423,388,4223006,2778
+.\src\game/module/login/LoginModule.lua,20, disabledLoginM,2,0,0,0,0,0,0
+.\src\game/module/update/UpdateLayer.lua,9, ctor,2,110075,55037,0,0,0,0
+main:.\src\game/module/battle/behaviors/GeneralAngrySlot.lua,0, ,2,0,0,0,0,0,0
+.\src\firework/util/AnchorPoint.lua,21, center,392,61561148,157043,240307,613,13108755,33440
+field.min,-1, [native code],4,0,0,0,0,0,0
+[native object].setPercentage,-1, [native code],14,40008,2857,10005,714,30003,2143
+.\src\cocos/cocos2d/Cocos2d.lua,23, center,5740,580331,101,580331,101,0,0
+[native object].setBright,-1, [native code],116,80084,690,20017,172,60067,517
+.\src\game/module/navigation/NavigationLayer.lua,446, callback,2,0,0,0,0,0,0
+.\src\firework/util/VisibleRect.lua,28, center,120,91165186,759709,50026,416,8365115,69709
+.\src\firework/util/VisibleRect.lua,24, centerTop,6,130103,21683,10014,1669,0,0
+.\src\game/entity/SkeletonEntity.lua,110, setAi,34,480224,14124,0,0,480224,14124
+.\src\game/module/navigation/NavigationLayer.lua,402, callback,2,9996,4998,0,0,9996,4998
+.\src\firework/util/AnchorPoint.lua,37, rightBottom,18,41036974,2279831,20104,1116,0,0
+.\src\game/module/battle/impl/BattleManager.lua,178, addFriendSoldierArrow,72,43658710,606370,20016,278,0,0
+.\src\firework/util/VisibleRect.lua,44, rightBottom,22,3092080,140549,30050,1365,2841880,129176
+.\src\game/entity/SkeletonEntity.lua,317, showHPChangeEffect,116,980877,8455,10005,86,970872,8369
+.\src\firework/util/VisibleRect.lua,32, centerBottom,12,6254151,521179,9995,832,800544,66712
+.\src\game/measure/LoginMeasure.lua,18, ,2,96414307,48207153,0,0,0,0
+.\src\game/module/battle/behaviors/BowAutoAi20022.lua,5, ctor,2,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleManager.lua,248, setCanProduceFriendNums,2,0,0,0,0,0,0
+.\src\firework/uilib/UIParser.lua,202, parse,416,61722690,148371,140119,336,0,0
+.\src\game/module/activity/ApHelper.lua,8, upadteAp,2,10005,5002,0,0,10005,5002
+.\src\firework/uilib/UIParser.lua,206, callbackHandler,2686,52486655,19540,410548,152,52076107,19387
+[native object].createTimeline,-1, [native code],2,720468,360234,200131,100065,520337,260168
+field.playEffect,-1, [native code],262,255629081,975683,159174673,607536,96424312,368031
+.\src\firework/uilib/details/check.lua,4, check,11002,2921874,265,2091405,190,830469,75
+.\src\game/module/battle/behaviors/SoldierAi1055.lua,79, beAttacked,6,110070,18345,0,0,100065,16677
+.\src\game/module/navigation/WorldMapLayer.lua,352, showLeaveAction,2,30018,15009,0,0,30018,15009
+.\src\firework/uilib/UIParser.lua,22, Parser,1750,26078205,14901,220125,125,25858080,14776
+.\src\firework/uilib/UICreator.lua,32, newCCSprite,1750,23216570,13266,160121,91,0,0
+[native object].removeAllChildrenWithCleanup,-1, [native code],2,90074,45037,60036,30018,30038,15019
+main:.\src\game/entity/SkeletonEntity.lua,0, ,2,0,0,0,0,0,0
+.\src\firework/uilib/UICreator.lua,9, newCCSprite,1654,22666377,13703,280082,169,22386295,13534
+.\src\game/module/battle/BattleModule.lua,210, getNextBattleCfg,6,0,0,0,0,0,0
+field.newCCSprite,-1, [native code],1750,22426341,12815,19825181,11328,0,0
+.\src\game/module/battle/impl/BattleCityViewLayer.lua,200, callback,4,30031,7507,0,0,30031,7507
+.\src\game/entity/SkeletonEntity.lua,68, afterThisEvent_,170,1280780,7534,130067,765,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,393, callback,2,10008,5004,0,0,10008,5004
+.\src\firework/uilib/details/ApiAdapter.lua,44, adapterCC,2570,3682028,1432,1230575,478,290245,112
+.\src\firework/uilib/details/ApiAdapter.lua,16, Pos,2116,950562,449,310317,146,640245,302
+.\src\firework/framework/EntityMgrDriver.lua,10, addEntity,134,340217,2538,40025,298,300192,2240
+.\src\firework/uilib/details/ApiAdapter.lua,17, Ap,754,380145,504,169955,225,210190,278
+.\src\firework/cocos2dx/Scheduler.lua,24, scheduleGlobal,2,0,0,0,0,0,0
+.\src\firework/uilib/UIParser.lua,79, Parser,4,40027,10006,0,0,40027,10006
+.\src\game/module/battle/AdjustableContainer.lua,78, update,112,3362473,30022,20023,178,3342450,29843
+.\src\firework/uilib/UILoadingBar.lua,8, ctor,4,20014,5003,0,0,0,0
+.\src\game/entity/ArrowEntity.lua,37, getAttackRect,19910,225945564,11348,6094286,306,218570238,10977
+.\src\firework/uilib/UIComponent.lua,7, ctor,116,12828614,110591,20020,172,0,0
+.\src\firework/uilib/UILoadingBar.lua,12, initWithCfg,4,20014,5003,0,0,20014,5003
+field.newS9Sprite,-1, [native code],4,20014,5003,10009,2502,0,0
+.\src\game/module/activity/ApHelper.lua,82, resetRemainTime,94,0,0,0,0,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,333, setCityStarBarVisible,3418,1821156,532,800581,234,1020575,298
+.\src\game/module/battle/impl/BattleViewLayer.lua,737, getProductFee,14,11287607,806257,10008,714,11277599,805542
+.\src\firework/uilib/UICreator.lua,17, newLoadingBar,96,870550,9068,20017,208,850533,8859
+.\src\game/module/battle/impl/BattleManager.lua,194, getCityLevel,582,9999,17,9999,17,0,0
+field.newLoadingBar,-1, [native code],96,840515,8755,70036,729,10005,104
+.\src\game/entity/CityEntity.lua,62, isDead,120,0,0,0,0,0,0
+.\src\firework/uilib/details/ApiAdapter.lua,58, adapterUILIB_PUBLIC,116,30043,258,20038,172,0,0
+.\src\firework/uilib/UILoadingBar.lua,22, getRootNode,12,0,0,0,0,0,0
+.\src\firework/cocos2dx/StateMachine.lua,277, changeState_,1296,7215324,5567,370314,285,0,0
+.\src\game/module/battle/BattleLayer.lua,353, playBattleSetiingLayerAni,2,10005,5002,0,0,10005,5002
+.\src\firework/uilib/details/ApiAdapter.lua,38, Pos,4,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationLayer.lua,682, setStarNum,6,19961,3326,0,0,19961,3326
+.\src\firework/uilib/UIComponent.lua,31, setPos,1066,740270,694,419973,393,240346,225
+main:.\src\game/module/battle/littlegame/FixGate.lua,0, ,2,10002,5001,0,0,10002,5001
+.\src\firework/uilib/details/ApiAdapter.lua,39, Ap,4,0,0,0,0,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,396, setTouchEnabled,3306,2011359,608,910636,275,870592,263
+.\src\game/module/battle/behaviors/GeneralAngrySlot.lua,46, update,64,150118,2345,20020,312,20016,312
+.\src\game/common/ViewHelper.lua,554, onClicked,3,0,0,0,0,0,0
+.\src\firework/uilib/UIComponent.lua,27, setAp,4,0,0,0,0,0,0
+.\src\firework/uilib/details/ApiAdapter.lua,66, adapterUILoadingBar,4,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationData.lua,300, getStarNum,56,2381623,42528,59919,1069,2311683,41280
+.\src\firework/uilib/UIParser.lua,163, Parser,20,570330,28516,0,0,0,0
+.\src\firework/framework/Module.lua,49, ,6,6114087,1019014,0,0,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,295, onEVENT_TOUCHED,114,40023,351,10002,87,10008,87
+main:.\src\game/module/battle/behaviors/SoldierAi1055.lua,0, ,2,10020,5010,0,0,10020,5010
+.\src\firework/framework/Module.lua,28, releaseLayer,6,6114087,1019014,0,0,6114087,1019014
+[native object].stopActionByTag,-1, [native code],116,259973,2241,39928,344,30035,258
+.\src\game/module/battle/BattleLayer.lua,284, cb,20,10009,500,0,0,10009,500
+[native object].release,-1, [native code],6,6114087,1019014,6104088,1017348,9999,1666
+.\src\game/module/login/LoginLayer.lua,41, ,2,2511493,1255746,0,0,2511493,1255746
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,151, getAttackTarget,486,130096,267,90068,185,0,0
+[native object].createNode,-1, [native code],2,2511493,1255746,1781014,890507,730479,365239
+.\src\game/module/battle/behaviors/BowAi.lua,5, ctor,2,0,0,0,0,0,0
+[native object].setScaleX,-1, [native code],2,730479,365239,0,0,730479,365239
+.\src\game/module/battle/behaviors/SoldierAi1053.lua,30, onBind_,6,20016,3336,0,0,0,0
+.\src\firework/uilib/details/ApiAdapter.lua,71, adapterCCButton,280,3342181,11936,70049,250,3272132,11686
+main:.\src\game/module/battle/behaviors/GeneralAi2001.lua,0, ,2,40026,20013,0,0,40026,20013
+[native object].gotoFrameAndPlay,-1, [native code],2,510320,255160,190107,95053,320213,160106
+.\src\firework/init.lua,43, ,210,0,0,0,0,0,0
+field.cast,-1, [native code],2,320213,160106,0,0,320213,160106
+.\src\game/module/battle/BattleLayer.lua,324, onShow,2,10697136,5348568,0,0,10697136,5348568
+[native object].getGoldNum,-1, [native code],6,730491,121748,0,0,630421,105070
+.\src\game/module/battle/behaviors/BowAi20024.lua,19, onBind_,2,0,0,0,0,0,0
+[native object].seekWidgetByName,-1, [native code],6,910590,151765,0,0,910590,151765
+[native object].setMaxLength,-1, [native code],2,290189,145094,230149,115074,60040,30020
+[native object].getAnimation,-1, [native code],1850,87798512,47458,510251,275,87288261,47182
+[native object].setFontSize,-1, [native code],2,60040,30020,30025,15012,30015,15007
+.\src\game/measure/PreLoadingMeasure.lua,10, endPreLoadingH,2,89589765,44794882,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1044.lua,41, attackImpl,4,2251493,562873,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1025.lua,96, beAttackedAction,14,90137,6438,0,0,0,0
+[native object].setString,-1, [native code],316,488639603,1546327,120089,380,445990559,1411362
+[native object].addTouchEventListener,-1, [native code],288,90100,312,90100,312,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,197, onEVENT_REFRESH,6386,66604400,10429,960642,150,65643758,10279
+.\src\firework/framework/Module.lua,33, ,6,340265,56710,0,0,340265,56710
+.\src\game/module/battle/impl/BattleCityViewLayer.lua,9, getCITY,4,60053,15013,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1052.lua,11, leave,40,130040,3251,20019,500,0,0
+field.newCCLabel,-1, [native code],298,820627,2753,320148,1074,0,0
+[native object].removeUnusedSpriteFrames,-1, [native code],6,340265,56710,50035,8339,290230,48371
+[native object].removeUnusedTextures,-1, [native code],6,290230,48371,290230,48371,0,0
+.\src\game/module/battle/impl/BattleEntityCreator.lua,7, ,24,12588366,524515,0,0,12588366,524515
+.\src\game/module/navigation/NavigationData.lua,217, openFn,32,600416,18763,0,0,600416,18763
+.\src\game/module/login/LoginLayer.lua,102, ,8,97785226,12223153,0,0,0,0
+[native object].registerControlEventHandler,-1, [native code],4,800596,200149,0,0,800596,200149
+.\src\game/entity/SkeletonEntity.lua,240, canBeAttacked,65460,3842430,58,3842430,58,0,0
+.\src\firework/cocos2dx/Registry.lua,66, isObjectExists,24,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralAngrySlot.lua,59, blinkSlot,68,50040,735,0,0,50040,735
+.\src\game/module/activity/ApHelper.lua,74, setLoginTime,2,0,0,0,0,0,0
+field.difftime,-1, [native code],2,10005,5002,0,0,10005,5002
+field.floor,-1, [native code],1342,23705716,17664,250259,186,23445452,17470
+.\src\game/module/battle/behaviors/GeneralAngrySlot.lua,14, onBind_,10,480326,48032,0,0,0,0
+.\src\firework/uilib/details/ApiAdapter.lua,156, adapterUIProgressButton,20,90117,4505,0,0,90117,4505
+.\src\game/module/activity/ApHelper.lua,61, getCurAp,18,13779221,765512,10005,555,13749192,763844
+.\src\game/module/login/LoginModule.lua,31, getEndLoginH,2,0,0,0,0,0,0
+.\src\game/measure/LoginMeasure.lua,36, onFinish,2,0,0,0,0,0,0
+.\src\game/measure/PreLoadingMeasure.lua,9, onLaunch,2,89589765,44794882,0,0,0,0
+.\src\game/measure/PreLoadingMeasure.lua,21, onFinish,2,0,0,0,0,0,0
+main:.\src\game/module/navigation/WorldMapLayer.lua,0, ,2,40030,20015,0,0,40030,20015
+.\src\game/measure/EnterGameMeasure.lua,9, onLaunch,2,89579763,44789881,0,0,0,0
+[native object].setZoomScale,-1, [native code],2,0,0,0,0,0,0
+main:.\src\game/module/task/taskPanel.lua,0, ,2,0,0,0,0,0,0
+.\src\game/measure/EnterGameMeasure.lua,20, wakeupNavigationM,2,89579763,44789881,0,0,88398960,44199480
+main:.\src\game/module/navigation/NavigationLayer.lua,0, ,2,30028,15014,0,0,30028,15014
+.\src\game/module/battle/behaviors/GeneralShowSpeech.lua,39, setTxt,10,0,0,0,0,0,0
+main:.\src\game/module/sign/SignDataMgr.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationLayer.lua,8, __create,2,1130753,565376,0,0,1130753,565376
+.\src\game/module/navigation/NavigationLayer.lua,27, ctor,2,1130753,565376,0,0,1130753,565376
+.\src\game/module/battle/BattleSettingLayer.lua,436, setBtnEnable,92,140080,1522,20010,217,120070,1305
+.\src\game/module/battle/AdjustableContainer.lua,114, ifExists,112,200059,1786,20013,178,180046,1607
+main:.\src\game/module/battle/behaviors/BowAutoAi20022.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/battle/BattleSettingLayer.lua,12, ctor,2,5283533,2641766,0,0,0,0
+.\src\game/module/login/LoginModule.lua,35, onRemove,2,6804538,3402269,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1035.lua,30, onBind_,2,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationLayer.lua,821, enableKeyEvent,2,0,0,0,0,0,0
+.\src\firework/util/AnchorPoint.lua,29, rightTop,12,29289508,2440792,10045,837,0,0
+.\src\game/module/battle/behaviors/SkeletonAi.lua,11, onBind_,34,100029,2942,20013,588,30009,882
+.\src\game/module/battle/impl/BattleSummaryLayer.lua,668, swallowTouches,8,10008,1251,0,0,10008,1251
+.\src\firework/util/VisibleRect.lua,20, leftBottom,14,1200782,85770,0,0,90040,6431
+.\src\firework/util/AnchorPoint.lua,25, centerBottom,68,37795078,555809,9999,147,20023,294
+.\src\firework/uilib/UIProgressButton.lua,24, onClicked,30,16110721,537024,0,0,0,0
+.\src\game/module/battle/behaviors/SkeletonAi.lua,15, ,13110,214161513,16335,2181202,166,211980311,16169
+.\src\game/module/battle/BattleSettingLayer.lua,358, ,4,19024381,4756095,0,0,19024381,4756095
+.\src\cocos/cocos2d/Cocos2d.lua,194, size,238,0,0,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,180, leaveThisState_,170,0,0,0,0,0,0
+.\src\firework/util/AnchorPoint.lua,9, leftCenter,92,97093802,1055367,39946,434,22084610,240050
+.\src\game/module/battle/impl/BattleViewLayer.lua,693, delegateFilter,14,11297615,806972,0,0,11297615,806972
+.\src\firework/util/AnchorPoint.lua,17, centerTop,122,15180192,124427,60051,492,690471,5659
+.\src\game/module/battle/impl/BattleManager.lua,38, initDataAndUI,2,8735812,4367906,0,0,8695801,4347900
+.\src\firework/util/VisibleRect.lua,12, leftTop,34,10777281,316978,30021,882,10747260,316095
+.\src\game/module/navigation/NavigationData.lua,323, getGoldNum,6,740497,123416,10006,1667,730491,121748
+.\src\firework/uilib/UICreator.lua,48, newCCButton,280,4022691,14366,10009,35,0,0
+.\src\game/module/navigation/WorldMapLayer.lua,314, refreshAllonEnter,2,68695836,34347918,0,0,68695836,34347918
+.\src\game/entity/SkeletonEntity.lua,277, ,518,1611482,3110,50038,96,0,0
+[native object].isShowing,-1, [native code],10,2131359,213135,0,0,0,0
+.\src\firework/uilib/UICreator.lua,25, newCCButton,280,4012682,14331,50037,178,3962645,14152
+.\src\firework/cocos2dx/EventProxy.lua,12, ctor,114,10015,87,10015,87,0,0
+field.newCCButton,-1, [native code],280,3902611,13937,400238,1429,0,0
+[native object].loadTextures,-1, [native code],9974,48912894,4904,10927300,1095,1300893,130
+.\src\firework/uilib/UIParser.lua,145, Parser,2,30009,15004,0,0,30009,15004
+.\src\firework/uilib/UICreator.lua,52, newCCCheckBox,2,30009,15004,0,0,0,0
+field.newCCCheckBox,-1, [native code],2,30009,15004,0,0,0,0
+.\src\game/module/navigation/WorldMapLayer.lua,187, ,4,69096087,17274021,0,0,69096087,17274021
+.\src\firework/uilib/details/ApiAdapter.lua,131, adapterCCCheckBox,2,20007,10003,0,0,20007,10003
+[native object].setSelected,-1, [native code],2,0,0,0,0,0,0
+.\src\game/module/navigation/WorldMapLayer.lua,330, ,112,68655812,612998,19998,178,68635814,612819
+[native object].addEventListener,-1, [native code],2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1035.lua,11, leave,46,140147,3046,20020,435,0,0
+.\src\firework/framework/EntityMgrDriver.lua,51, getEntityNum,11412,750412,65,750412,65,0,0
+main:.\src\game/module/battle/behaviors/SoldierAi1044.lua,0, ,2,9952,4976,0,0,9952,4976
+.\src\firework/uilib/UIParser.lua,42, newWithinLocalTextureType,146,650451,4455,30010,205,0,0
+.\src\firework/uilib/details/ApiAdapter.lua,19, ContentSize,28,20014,714,10008,357,10006,357
+.\src\game/module/battle/behaviors/SoldierAi1044.lua,49, playAttackEffect,4,2211464,552866,0,0,0,0
+[native object].setContentSize,-1, [native code],208,340266,1635,40023,192,300243,1443
+.\src\firework/uilib/UIParser.lua,90, Parser,298,1921362,6447,40017,134,1881345,6313
+.\src\firework/uilib/UICreator.lua,44, newCCLabel,298,990749,3324,70048,235,0,0
+.\src\firework/uilib/UICreator.lua,23, newCCLabel,298,920701,3089,60047,201,860654,2888
+.\src\game/module/navigation/WorldMapLayer.lua,179, ,112,60018,535,30022,268,29996,267
+[native object].setColor,-1, [native code],96,160068,1667,0,0,160068,1667
+.\src\game/module/navigation/NavigationData.lua,226, openFn,10,10008,1000,0,0,0,0
+.\src\firework/uilib/UIParser.lua,234, callbackHandler,2606,7024877,2695,530245,203,0,0
+.\src\game/module/battle/behaviors/SoldierHp.lua,43, offsetSlotPosition,10,10005,1000,0,0,10005,1000
+.\src\game/module/battle/behaviors/GeneralAi2008.lua,57, attackImpl,10,210163,21016,0,0,0,0
+.\src\game/module/navigation/NavigationLayer.lua,138, callback,2,0,0,0,0,0,0
+[native object].setPositionX,-1, [native code],10300,11927841,1158,2041295,198,4713207,457
+.\src\game/module/navigation/NavigationLayer.lua,517, callback,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SkeletonAi.lua,119, afterDeadActionFinish,14,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationModule.lua,64, setBack2LoginM,2,0,0,0,0,0,0
+[native object].setPercent,-1, [native code],318,19082594,60008,50046,157,18812246,59158
+field.ceil,-1, [native code],1062,21934527,20653,520668,490,20423323,19231
+[native object].getEventCode,-1, [native code],2,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationModule.lua,12, onAdd2StageHandler,4,89960013,22490003,0,0,89960013,22490003
+.\src\game/module/navigation/NavigationLayer.lua,592, ,4,86567740,21641935,0,0,86567740,21641935
+field.randomseed,-1, [native code],4,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleBackgroundViewLayer.lua,3, __create,2,2121412,1060706,0,0,2121412,1060706
+.\src\game/module/navigation/NavigationLayer.lua,739, showWorldMapLayer,2,86417638,43208819,0,0,86417638,43208819
+main:.\src\game/module/guide/GuideCityAttack.lua,0, ,2,50041,25020,0,0,50041,25020
+.\src\game/module/battle/behaviors/SoldierAi1024.lua,29, onBind_,4,10008,2502,0,0,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,154, ,183882,11628557,63,11428527,62,200030,1
+main:.\src\game/module/task/taskGuide.lua,0, ,2,0,0,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,195, beAttackedAction,134,1070804,7991,10002,74,0,0
+.\src\firework/uilib/UIIconButton.lua,119, getContentSize,6,30010,5001,0,0,30010,5001
+[native object].setTitleFontSize,-1, [native code],18,820526,45584,610459,33914,210067,11670
+.\src\game/module/navigation/NavigationData.lua,119, ,228,70039,307,50025,219,20014,87
+.\src\game/module/navigation/WorldMapLayer.lua,6, __create,2,17041361,8520680,0,0,17041361,8520680
+.\src\game/module/navigation/WorldMapLayer.lua,10, ctor,2,17041361,8520680,0,0,0,0
+.\src\cocos/cocos2d/functions.lua,157, clone,44,1070789,24336,20013,454,340294,7733
+.\src\game/module/battle/behaviors/RandomSpeech.lua,16, init,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1035.lua,89, getAttackTarget,80,0,0,0,0,0,0
+.\src\firework/uilib/UIParser.lua,186, Parser,2,10008,5004,0,0,0,0
+.\src\firework/uilib/UICreator.lua,60, newCCScrollView,2,10008,5004,0,0,0,0
+.\src\firework/uilib/UICreator.lua,28, newCCScrollView,2,10008,5004,0,0,10008,5004
+field.newCCScrollView,-1, [native code],2,10008,5004,0,0,0,0
+main:.\src\game/module/battle/Qipao.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,318, getCityIsBroken,9806,711849461,72593,5914105,603,673213638,68653
+.\src\game/module/navigation/NavigationLayer.lua,42, ,2,620408,310204,0,0,620408,310204
+.\src\firework/uilib/details/ApiAdapter.lua,178, adapterCCScrollView,2,10008,5004,0,0,10008,5004
+[native object].setBounceable,-1, [native code],2,0,0,0,0,0,0
+main:.\src\game/module/battle/behaviors/SoldierAi1025.lua,0, ,2,10002,5001,0,0,10002,5001
+[native object].setClippingToBounds,-1, [native code],2,0,0,0,0,0,0
+main:.\src\game/module/battle/behaviors/SkeletonAi.lua,0, ,2,20010,10005,10008,5004,10002,5001
+.\src\game/module/navigation/WorldMapLayer.lua,199, setScollViewDelegate,2,0,0,0,0,0,0
+.\src\game/module/navigation/WorldMapLayer.lua,31, callback,2,9998,4999,0,0,9998,4999
+.\src\game/module/battle/BattleSettingLayer.lua,547, cb,92,90055,978,10005,108,80050,870
+.\src\game/module/battle/behaviors/SoldierAi1055.lua,41, attackImpl,8,4492931,561616,0,0,0,0
+[native object].setOpacity,-1, [native code],306,6932864,22656,29907,97,6902957,22558
+.\src\game/module/battle/behaviors/BowAutoAi20022.lua,16, ,2122,1131086,533,380310,179,750776,353
+.\src\game/module/battle/BattleSettingLayer.lua,373, _createContainLayerAndComponentList,6,18944442,3157407,0,0,18874279,3145713
+.\src\game/module/navigation/WorldMapLayer.lua,70, callback,2,9996,4998,0,0,9996,4998
+main:.\src\game/module/shop/ShopLayerOld.lua,0, ,2,0,0,0,0,0,0
+main:.\src\firework/framework/FrameAnimation.lua,0, ,2,0,0,0,0,0,0
+.\src\firework/framework/DataManager.lua,39, getCsv,978,52415710,53594,90070,92,0,0
+.\src\firework/uilib/UIProgressButton.lua,65, onClicked,30,16110721,537024,10002,333,50013,1667
+.\src\firework/util/Csv.lua,5, ctor,92,49233070,535142,10005,108,0,0
+.\src\firework/util/Csv.lua,11, load,92,49223065,535033,10021,108,49213044,534924
+.\src\game/entity/SkeletonEntity.lua,61, afterThisEvent_,424,2982346,7033,160092,377,0,0
+.\src\firework/util/Csv.lua,13, split,7030,32921412,4682,2611744,371,30309668,4311
+.\src\game/module/battle/behaviors/BattleMgrPolicy.lua,68, stopBattleMgrPolicy,6,0,0,0,0,0,0
+field.len,-1, [native code],1694,16291756,9617,360338,212,15911402,9392
+.\src\firework/util/Csv.lua,16, ,79572,18312417,230,11909106,149,6403311,80
+.\src\game/entity/BowEntity.lua,81, setAi,4,80060,20015,0,0,80060,20015
+.\src\firework/util/Csv.lua,56, getProps,228,30024,131,30024,131,0,0
+main:.\src\game/module/navigation/WorldMapCityView.lua,0, ,2,70042,35021,0,0,70042,35021
+.\src\game/entity/SkeletonEntity.lua,72, afterThisEvent_,148,0,0,0,0,0,0
+main:.\src\game/module/guide/GuideBase.lua,0, ,2,0,0,0,0,0,0
+.\src\cocos/cocos2d/Cocos2d.lua,199, rect,30774,2141536,69,2141536,69,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,17, ctor,114,14199554,124557,180131,1580,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,32, createView,114,13639147,119641,30003,263,13609144,119378
+.\src\game/module/battle/behaviors/BowAi20024.lua,7, ctor,2,0,0,0,0,0,0
+.\src\game/module/task/taskGuide.lua,121, onBtnClick,2,50022,25011,0,0,50022,25011
+.\src\firework/cocos2dx/StateMachine.lua,273, enterAnyState_,1296,310414,239,240372,185,0,0
+field.gb2312utf8,-1, [native code],118,18102142,153407,20019,169,13078731,110836
+[native object].setTouchEnabled,-1, [native code],3654,3112140,851,350247,95,2761893,755
+.\src\game/module/battle/behaviors/GeneralShowSpeech.lua,14, ctor,2,170122,85061,0,0,0,0
+[native object].setDimensions,-1, [native code],114,70069,614,30022,263,40047,351
+.\src\game/module/battle/BattleSettingLayer.lua,533, callback,92,3442549,37419,0,0,3442549,37419
+[native object].setAlignment,-1, [native code],114,20027,175,20027,175,0,0
+[native object].getScheduler,-1, [native code],2,10015,5007,0,0,10015,5007
+.\src\game/module/navigation/WorldMapCityView.lua,90, callback,114,260193,2282,20032,175,240161,2106
+.\src\game/common/ViewHelper.lua,515, callback,2,40020,20010,0,0,40020,20010
+.\src\game/module/navigation/WorldMapCityView.lua,126, ,114,40030,351,40030,351,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,131, ,114,60049,526,20013,175,40036,351
+.\src\game/module/navigation/WorldMapCityView.lua,322, setCityStarNum,6500,10317003,1587,1100774,169,9216229,1417
+.\src\game/module/navigation/WorldMapCityView.lua,313, setCityIsBroken,114,140118,1229,50040,438,0,0
+[native object].getPercent,-1, [native code],64,0,0,0,0,0,0
+.\src\firework/util/Ini.lua,76, set,144,0,0,0,0,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,388, getRootNode,13230,800524,60,800524,60,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,245, getCityType,29070,181050621,6228,12948504,445,164089651,5644
+.\src\game/module/battle/BattleLayer.lua,18, ctor,2,990671,495335,10005,5002,980666,490333
+.\src\game/module/navigation/WorldMapCityView.lua,249, setShowFightingAni,3306,18162226,5493,550410,166,17611816,5327
+[native object].addArmatureFileInfo,-1, [native code],174,65243847,374964,25407184,146018,39836663,228946
+main:.\src\game/module/battle/littlegame/BaseGame.lua,0, ,2,0,0,0,0,0,0
+[native object].play,-1, [native code],890,62191333,69877,730661,820,32421690,36428
+[native object].scheduleUpdateWithPriorityLua,-1, [native code],114,100074,877,20010,175,80064,702
+.\src\game/module/battle/impl/BattleViewLayer.lua,772, callback,14,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralAngrySlot.lua,73, offsetSlotPosition,10,19939,1993,0,0,19939,1993
+.\src\firework/cocos2dx/EventProxy.lua,25, addEventListener,228,280189,1228,30018,131,0,0
+[native object].setLocalZOrder,-1, [native code],32,70045,2188,10009,312,50034,1563
+.\src\game/module/battle/BattleLayer.lua,227, addCtrlItem,20,2431729,121586,20016,1000,2411713,120585
+.\src\game/module/navigation/WorldMapCityView.lua,168, ,228,0,0,0,0,0,0
+.\src\game/module/navigation/NavigationModule.lua,97, getUserBattleAll,2,68695836,34347918,10009,5004,68685827,34342913
+.\src\game/module/battle/BattleSettingLayer.lua,403, showSoliderContainLayer,2,8307327,4153663,0,0,8307327,4153663
+.\src\firework/cocos2dx/Registry.lua,56, getCls,112,50028,446,10008,89,40020,357
+[native object].setFlippedY,-1, [native code],6,0,0,0,0,0,0
+main:.\src\game/module/battle/BattleSettingLayer.lua,0, ,2,10012,5006,0,0,10012,5006
+.\src\firework/uilib/UIIconButton.lua,48, callback,92,60088,653,10009,108,50079,544
+.\src\game/module/sign/SignDataMgr.lua,66, split,114,590372,5178,0,0,590372,5178
+.\src\cocos/cocos2d/deprecated.lua,10, performWithDelay,826,1630793,1974,100107,121,1530686,1853
+.\src\game/module/navigation/WorldMapLayer.lua,171, ,112,50026,446,0,0,50026,446
+[native object].stopAllActions,-1, [native code],68,20019,294,10011,147,10008,147
+.\src\game/module/navigation/WorldMapCityView.lua,178, centerCurrentCity,2,10006,5003,0,0,10006,5003
+field.rad,-1, [native code],2,10008,5004,0,0,10008,5004
+.\src\game/module/battle/impl/BattleViewLayer.lua,790, getEnmeyBornPos,24,9086017,378584,0,0,9086017,378584
+.\src\game/module/navigation/NavigationLayer.lua,747, getWorldMapLayer,232,80045,345,50031,215,30014,129
+[native object].minContainerOffset,-1, [native code],6,30018,5003,0,0,30018,5003
+.\src\game/module/battle/BattleSettingLayer.lua,509, getItemUICfg,92,320338,3481,30044,326,290294,3155
+.\src\game/module/battle/behaviors/SkeletonAi.lua,20, ,13110,308418746,23525,2001359,152,306417387,23372
+[native object].setContentOffset,-1, [native code],2,10006,5003,0,0,0,0
+.\src\game/module/activity/ApHelper.lua,69, getIntervalTime,92,0,0,0,0,0,0
+.\src\game/module/battle/AdjustableContainer.lua,5, __create,8,80168,10021,0,0,80168,10021
+.\src\game/module/navigation/WorldMapLayer.lua,204, ,94,270051,2872,30154,320,239897,2552
+[native object].setTag,-1, [native code],154,7164535,46522,40042,260,4682991,30409
+.\src\game/module/navigation/NavigationLayer.lua,605, setHadCityNum,2,0,0,0,0,0,0
+.\src\game/module/navigation/WorldMapLayer.lua,158, initYun,2,400251,200125,0,0,400251,200125
+.\src\game/module/navigation/NavigationData.lua,296, setStarNum,6,19961,3326,10024,1670,0,0
+.\src\game/module/navigation/NavigationLayer.lua,695, setGoldNum,6,100070,16678,0,0,100070,16678
+[native object].getPositionX,-1, [native code],44468,1380086797,31035,19602107,440,111493167,2507
+.\src\game/module/navigation/NavigationLayer.lua,770, refreshUI,4,870581,217645,0,0,870581,217645
+.\src\game/entity/SkeletonAnmi.lua,58, getDirection,62660,3742609,59,3742609,59,0,0
+.\src\firework/uilib/UIIconButton.lua,111, getRootNode,1136,89956,79,89956,79,0,0
+.\src\game/module/navigation/WorldMapLayer.lua,339, refreshUI,4,50034,12508,0,0,50034,12508
+.\src\game/module/battle/impl/BattleViewLayer.lua,226, callback,2,10005,5002,0,0,10005,5002
+.\src\game/module/battle/BattleSettingLayer.lua,627, showEnemyPreview,2,13018676,6509338,0,0,13018676,6509338
+.\src\game/module/navigation/WorldMapLayer.lua,294, swallowTouches,6,30014,5002,0,0,30014,5002
+.\src\game/module/navigation/NavigationLayer.lua,782, showGeneralIntro,4,560374,140093,0,0,0,0
+.\src\game/entity/SkeletonAnmi.lua,62, setPosition,38,10002,263,10002,263,0,0
+.\src\firework/uilib/UIProgressButton.lua,83, getNodeByName,60,10002,166,10002,166,0,0
+.\src\game/module/navigation/NavigationLayer.lua,899, refreshAp,4,20013,5003,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralAngrySlot.lua,36, callback,10,10052,1005,0,0,10052,1005
+.\src\game/module/activity/ApHelper.lua,65, getMaxAp,14,0,0,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,38, afterThisEvent_,34,340329,10009,30021,882,0,0
+.\src\game/measure/LoginMeasure.lua,40, onRemove,2,6804538,3402269,0,0,6804538,3402269
+.\src\game/module/navigation/WorldMapCityView.lua,287, ,4,10011,2502,0,0,10011,2502
+.\src\game/module/navigation/WorldMapLayer.lua,212, ,10,10133,1013,0,0,10133,1013
+.\src\game/module/battle/behaviors/SoldierAi1053.lua,11, leave,102,250122,2452,40023,392,0,0
+[native object].isDragging,-1, [native code],10,10133,1013,0,0,10133,1013
+.\src\game/module/navigation/NavigationLayer.lua,140, ,112,1440971,12865,19954,178,1421017,12687
+.\src\game/module/sign/SignDataMgr.lua,3, ctor,2,29966,14983,0,0,0,0
+.\src\game/module/sign/SignDataMgr.lua,7, handleData,2,29966,14983,10024,5012,10005,5002
+field.sub,-1, [native code],926,2292312,2475,179994,194,2112318,2281
+.\src\Startup.lua,16, exit,1,0,0,0,0,0,0
+.\src\game/module/sign/SignDataMgr.lua,84, convertToDate,114,90149,790,20048,175,70101,614
+field.tan,-1, [native code],2,10008,5004,0,0,10008,5004
+.\src\game/module/task/taskGuide.lua,46, ,2,60031,30015,0,0,60031,30015
+global.unpack,-1, [native code],2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SkeletonAi.lua,7, ctor,34,10073,296,0,0,0,0
+.\src\firework/uilib/details/ApiAdapter.lua,20, RSY,6,0,0,0,0,0,0
+.\src\firework/cocos2dx/Component.lua,67, onUnbind_,44,0,0,0,0,0,0
+.\src\game/module/sign/SignDataMgr.lua,101, datediff,2,0,0,0,0,0,0
+[native object]._create,-1, [native code],148,1101126,7440,230131,1554,870995,5885
+field.match,-1, [native code],564,415416841,736554,110107,195,415306734,736359
+.\src\firework/cocos2dx/StateMachine.lua,50, setupState,38,390335,10271,0,0,390335,10271
+field.getn,-1, [native code],2,0,0,0,0,0,0
+.\src\game/module/sign/SignDataMgr.lua,41, isSignToday,112,1351070,12063,20039,178,1331031,11884
+.\src\game/module/sign/SignDataMgr.lua,90, isSignToday,112,189970,1696,10002,89,179968,1606
+[native object].getChildByTag,-1, [native code],264,6134169,23235,100166,379,6034003,22856
+.\src\game/module/battle/BattleModule.lua,214, getBMgr,42,0,0,0,0,0,0
+[native object].removeEventListenersForTarget,-1, [native code],18,97807545,5433752,10018,556,97797527,5433195
+.\src\firework/uilib/details/ApiAdapter.lua,85, ,57,52384860,919032,49985,876,0,0
+main:.\src\game/entity/BowEntity.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,47, onClicked,10,5063371,506337,0,0,0,0
+.\src\game/module/navigation/WorldMapCityView.lua,26, ,114,50028,438,10005,87,0,0
+[native object].getPositionY,-1, [native code],30858,1242719080,40272,8905548,288,89869659,2912
+.\src\game/module/task/taskGuide.lua,5, __create,2,10005,5002,0,0,10005,5002
+[native object].setType,-1, [native code],20,90117,4505,20019,1000,60096,3004
+[native object].setBackgroundSpriteForState,-1, [native code],2,10076,5038,0,0,10076,5038
+.\src\game/entity/ArrowEntity.lua,41, canAttack,3038,170130,56,170130,56,0,0
+[native object].setPreferredSize,-1, [native code],2,10076,5038,0,0,10076,5038
+field.gmatch,-1, [native code],2,0,0,0,0,0,0
+[native object].find,-1, [native code],320,8073356,25229,40060,125,8033296,25104
+.\src\game/module/battle/BattleModule.lua,22, onAdd2StageHandler,2,93324343,46662171,0,0,93324343,46662171
+.\src\game/module/navigation/NavigationModule.lua,82, enterBattleM,2,40026,20013,10008,5004,30018,15009
+.\src\game/module/battle/BattleModule.lua,48, initNextBattle,2,0,0,0,0,0,0
+.\src\game/module/navigation/WorldMapLayer.lua,371, ,2,97797527,48898763,0,0,97797527,48898763
+.\src\game/module/battle/Qipao.lua,9, ctor,24,160066,6669,0,0,160066,6669
+.\src\game/module/navigation/NavigationModule.lua,84, onCompletedFunc,2,97797527,48898763,0,0,97797527,48898763
+main:.\src\game/module/battle/BattleLayer.lua,0, ,2,20007,10003,0,0,20007,10003
+main:.\src\game/module/battle/AdjustableContainer.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/battle/BattleLayer.lua,5, __create,2,990671,495335,0,0,990671,495335
+.\src\cocos/cocos2d/Cocos2d.lua,283, c4b,106,30019,283,30019,283,0,0
+.\src\game/module/battle/behaviors/BattleMgrPolicy.lua,8, ctor,2,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleManager.lua,277, getEnemySideCount,20,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/BowAutoAi20022.lua,9, onBind_,2,10008,5004,0,0,0,0
+field.random,-1, [native code],324,940515,2902,40012,123,520314,1605
+.\src\game/module/battle/BattleLayer.lua,348, enableKeyEvent,2,0,0,0,0,0,0
+.\src\firework/init.lua,51, ,800,80087,100,80087,100,0,0
+.\src\game/module/battle/impl/BattleManager.lua,244, getCanProduceFriendNums,16,10008,625,10008,625,0,0
+.\src\firework/cocos2dx/StateMachine.lua,143, doEvent,1188,41487197,34921,150096,126,41337101,34795
+.\src\game/module/battle/BattleLayer.lua,180, showBattleSettingLayer,2,81466514,40733257,0,0,81466514,40733257
+[native object].setRotationSkewY,-1, [native code],22,1370921,62314,20016,909,1350905,61404
+.\src\game/entity/SkeletonAnmi.lua,90, setRotationSkewY,14,30037,2145,10021,715,20016,1429
+.\src\firework/uilib/details/ApiAdapter.lua,22, Rotation,98,90051,918,40048,408,50003,510
+.\src\firework/cocos2dx/StateMachine.lua,261, beforeAnyEvent_,1310,350250,267,290208,221,0,0
+[native object].setTitleText,-1, [native code],18,980630,54479,160104,8894,820526,45584
+.\src\game/module/battle/impl/BattleViewLayer.lua,424, ,2,0,0,0,0,0,0
+[native object].setTextColor,-1, [native code],94,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/BattleMgrPolicy.lua,60, startBattleMgrPolicy,2,0,0,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,254, isFriend,4020,1711303,425,1180973,293,0,0
+.\src\game/module/battle/BattleSettingLayer.lua,153, callback,2,0,0,0,0,0,0
+.\src\game/module/battle/BattleSettingLayer.lua,211, callback,2,0,0,0,0,0,0
+.\src\firework/uilib/details/ApiAdapter.lua,163, adapterUIIconButton,92,230219,2502,29987,325,200232,2176
+.\src\firework/uilib/UIIconButton.lua,32, callback,92,80050,870,10002,108,70048,761
+[native object].addSpriteFrameFromFile,-1, [native code],10,2281643,228164,1891261,189126,390382,39038
+.\src\game/entity/SkeletonEntity.lua,98, ,14,100062,7147,0,0,0,0
+.\src\game/module/battle/BattleModule.lua,52, startBattleMgr,2,13689139,6844569,0,0,13198807,6599403
+.\src\firework/util/Ini.lua,86, save,18,50046,2780,0,0,50046,2780
+main:.\src\game/module/battle/impl/BattleBackgroundViewLayer.lua,0, ,2,40005,20002,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,92, afterThisEvent_,14,210062,15004,0,0,0,0
+.\src\game/module/battle/AdjustableContainer.lua,26, initWithCfg,8,20013,2501,0,0,20013,2501
+global.setfenv,-1, [native code],92,170202,1850,20007,217,0,0
+.\src\firework/uilib/UIIconButton.lua,64, callback,92,100045,1087,40027,435,60018,652
+.\src\firework/uilib/UIIconButton.lua,115, getNodeByName,716,10008,13,10008,13,0,0
+.\src\game/module/battle/behaviors/GeneralAi2008.lua,187, getAttackTarget,52,19998,384,19998,384,0,0
+.\src\firework/uilib/UIIconButton.lua,123, setPosition,952,850496,893,150253,157,0,0
+.\src\game/module/battle/BattleSettingLayer.lua,412, showGeneralsContainLayer,2,8925845,4462922,0,0,8925845,4462922
+.\src\game/module/battle/BattleSettingLayer.lua,421, showSkillsContainLayer,2,1761181,880590,0,0,1761181,880590
+.\src\firework/util/Csv.lua,60, get,1086,100059,92,100059,92,0,0
+.\src\game/module/battle/BattleSettingLayer.lua,652, split,2,10014,5007,0,0,10014,5007
+.\src\game/entity/EntityMgr.lua,14, setCompareTpl,4,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,439, ,10,60055,6005,0,0,60055,6005
+.\src\game/module/battle/BattleSettingLayer.lua,430, refreshUI,2,43939917,21969958,0,0,43939917,21969958
+.\src\game/module/navigation/NavigationData.lua,203, openFn,50,43629726,872594,40002,800,0,0
+[native object].getSoldierLevelById,-1, [native code],50,2131415,42628,10017,200,2121398,42427
+.\src\game/entity/SkeletonEntity.lua,145, getCfgByKey,46958,38815822,826,6594449,140,32221373,686
+.\src\firework/framework/EntityDriver.lua,5, ctor,138,40001,289,40001,289,0,0
+.\src\game/module/battle/BattleLayer.lua,320, setCtrlDelegate,4,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleBackgroundViewLayer.lua,188, ctor,2,2121412,1060706,10002,5001,2111410,1055705
+.\src\game/module/battle/impl/BattleBackgroundViewLayer.lua,192, callback,2,0,0,0,0,0,0
+.\src\game/module/battle/BattleLayer.lua,217, ,20,2591743,129587,0,0,2591743,129587
+.\src\game/module/battle/BattleSettingLayer.lua,483, itemClick,20,2591743,129587,10005,500,2481684,124084
+.\src\firework/init.lua,36, getItemTypeName,980,700485,714,250244,255,450241,459
+.\src\game/module/battle/behaviors/SoldierHp.lua,9, onBind_,34,920600,27076,10008,294,0,0
+.\src\game/module/battle/BattleLayer.lua,243, getProductFee,20,1571009,78550,10006,500,1561003,78050
+.\src\game/module/battle/behaviors/SkeletonAi.lua,127, onUnbind_,34,59944,1763,0,0,0,0
+.\src\firework/uilib/UIProgressButton.lua,8, ctor,20,430153,21507,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1044.lua,53, attackTarget,4,60033,15008,0,0,0,0
+.\src\firework/uilib/UIProgressButton.lua,50, callback,20,60106,3005,0,0,60106,3005
+[native object].setBarChangeRate,-1, [native code],20,60096,3004,10005,500,50091,2504
+.\src\game/module/battle/BattleLayer.lua,282, callback,20,530348,26517,10005,500,520343,26017
+main:.\src\game/entity/CityEntity.lua,0, ,2,0,0,0,0,0,0
+.\src\firework/cocos2dx/StateMachine.lua,319, enterState_,1296,960709,741,150119,115,0,0
+.\src\Global.lua,33, gFrameFix,7846,1580972,201,1100675,140,480297,61
+.\src\firework/uilib/UIProgressButton.lua,61, getRootNode,150,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1044.lua,16, leave,4,20010,5002,0,0,0,0
+.\src\firework/uilib/UIProgressButton.lua,87, getContentSize,2,10011,5005,0,0,10011,5005
+.\src\game/entity/SkeletonEntity.lua,41, afterThisEvent_,170,1400909,8240,50044,294,0,0
+.\src\firework/uilib/UIProgressButton.lua,91, setPosition,110,70051,636,30024,272,0,0
+.\src\game/module/battle/BattleLayer.lua,309, callback,20,20070,1003,10071,503,9999,499
+.\src\firework/init.lua,47, ,160,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1024.lua,11, leave,16,50041,3127,10015,625,0,0
+.\src\game/module/battle/behaviors/ArrowAi1021.lua,16, ,532,7945349,14934,60049,112,7885300,14821
+.\src\game/entity/SkeletonEntity.lua,43, afterThisEvent_,2,20014,10007,0,0,0,0
+.\src\game/module/battle/BattleSettingLayer.lua,694, ,92,380270,4133,40009,434,320248,3480
+.\src\game/module/battle/impl/BattleManager.lua,79, ,1520,30809177,20269,210064,138,30599113,20130
+.\src\game/module/battle/BattleSettingLayer.lua,260, onClicked,10,13709156,1370915,0,0,0,0
+.\src\firework/cocos2dx/StateMachine.lua,303, afterEvent_,1310,6874975,5248,240225,183,0,0
+.\src\game/module/battle/behaviors/RandomSpeech.lua,10, ctor,2,320210,160105,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralShowSpeech.lua,18, init,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1052.lua,15, leave,10,40024,4002,0,0,0,0
+main:.\src\game/module/battle/impl/BattleEntityCreator.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleManager.lua,6, ctor,2,13058702,6529351,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,40, afterThisEvent_,404,220135,544,140089,346,0,0
+.\src\game/module/battle/impl/BattleManager.lua,12, initWithCfg,2,13058702,6529351,0,0,0,0
+main:.\src\game/entity/EntityMgr.lua,0, ,2,0,0,0,0,0,0
+.\src\game/entity/EntityMgr.lua,5, ctor,4,0,0,0,0,0,0
+main:.\src\game/module/battle/impl/BattleViewLayer.lua,0, ,2,30012,15006,10005,5002,20007,10003
+main:.\src\game/module/battle/behaviors/SoldierAi1024.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,5, __create,2,3572381,1786190,0,0,3572381,1786190
+.\src\game/module/battle/impl/BattleViewLayer.lua,17, ctor,2,3572381,1786190,0,0,3572381,1786190
+.\src\game/entity/SkeletonAnmi.lua,109, getContentSize,176,5113576,29054,30021,170,5083555,28883
+.\src\game/module/battle/BattleLayer.lua,339, getBackgroundViewLayer,4,0,0,0,0,0,0
+main:.\src\game/module/battle/impl/BattleCityViewLayer.lua,0, ,2,140097,70048,19992,9996,120105,60052
+.\src\game/module/battle/impl/BattleCityViewLayer.lua,241, setTriggerHelpMeBtnVisible,6,10006,1667,0,0,10006,1667
+.\src\firework/uilib/UICreator.lua,10, newCCSprite,96,390072,4063,9871,102,380201,3960
+main:.\src\game/module/battle/littlegame/HelpMe.lua,0, ,2,40043,20021,0,0,40043,20021
+main:.\src\game/module/battle/littlegame/ConfirmLayer.lua,0, ,2,0,0,0,0,0,0
+.\src\game/entity/EntityMgr.lua,58, getAliveEntityNum,20,160174,8008,0,0,0,0
+.\src\firework/cocos2dx/StateMachine.lua,289, leaveThisState_,1188,1590623,1338,270296,227,0,0
+.\src\game/module/battle/impl/BattleCityViewLayer.lua,3, __create,4,2361567,590391,0,0,2361567,590391
+main:.\src\game/entity/SkeletonAnmi.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/battle/BattleLayer.lua,377, playBattleUiAni,2,20026,10013,0,0,20026,10013
+.\src\game/entity/SkeletonAnmi.lua,11, ctor,38,15010283,395007,10008,263,15000275,394744
+.\src\game/entity/SkeletonAnmi.lua,34, add2Node,38,70138,1845,30118,792,40020,1053
+.\src\game/module/battle/behaviors/SoldierAi1025.lua,12, leave,22,60066,2730,0,0,0,0
+.\src\game/entity/BowEntity.lua,5, ctor,4,50028,12507,10008,2502,0,0
+.\src\game/entity/SkeletonAnmi.lua,86, setVisible,4,0,0,0,0,0,0
+.\src\game/common/ViewHelper.lua,465, callback,2,10006,5003,0,0,10006,5003
+.\src\firework/cocos2dx/GameObject.lua,13, extend,140,0,0,0,0,0,0
+.\src\firework/cocos2dx/Component.lua,12, ctor,218,10073,46,10073,46,0,0
+.\src\firework/cocos2dx/StateMachine.lua,231, onBind_,38,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/BowAutoAi20022.lua,33, doAutoAction,2122,2832318,1334,470391,221,0,0
+.\src\firework/cocos2dx/StateMachine.lua,216, exportMethods,38,120041,3158,10008,263,0,0
+.\src\firework/cocos2dx/Component.lua,29, exportMethods_,40,110033,2750,10008,250,100025,2500
+.\src\firework/cocos2dx/Component.lua,64, onBind_,98,0,0,0,0,0,0
+.\src\firework/cocos2dx/Scheduler.lua,17, scheduleUpdateGlobal,266,260277,978,70126,263,190151,714
+field.sort,-1, [native code],13026,40917638,3141,4472938,343,0,0
+field.scheduleUpdateGlobal,-1, [native code],266,150137,564,50081,188,10008,37
+.\src\game/module/battle/impl/BattleViewLayer.lua,510, setGoldNum,16,270245,16890,0,0,270245,16890
+.\src\game/entity/BowEntity.lua,86, getView,20,0,0,0,0,0,0
+main:.\src\game/module/battle/behaviors/BowAi20024.lua,0, ,2,10027,5013,0,0,10027,5013
+.\src\firework/framework/EntityDriver.lua,27, registerListener,2,0,0,0,0,0,0
+.\src\firework/util/AnchorPoint.lua,33, rightCenter,110,74819059,680173,60180,547,65733438,597576
+.\src\firework/uilib/UIParser.lua,177, Parser,92,940588,10223,10006,108,930582,10115
+.\src\firework/uilib/details/ApiAdapter.lua,170, adapterCCLoadingBar,92,500348,5438,20010,217,480338,5221
+.\src\game/module/battle/impl/BattleViewLayer.lua,278, callback,2,0,0,0,0,0,0
+.\src\game/entity/EntityMgr.lua,10, setCB,4,0,0,0,0,0,0
+.\src\firework/util/Csv.lua,64, getN,4,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleManager.lua,190, getLayer,1700,149953,88,149953,88,0,0
+.\src\firework/util/Csv.lua,76, getNR,22,10008,454,10008,454,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,799, getFriendBornPos,18,11017401,612077,10008,556,11007393,611521
+[native object].getBoundingBox,-1, [native code],32,560334,17510,20007,625,140058,4376
+.\src\game/entity/RemoteEntity.lua,11, getAttackRect,30648,1218481628,39757,16991225,554,0,0
+.\src\game/entity/CityEntity.lua,98, setBloodChangeListener,2,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,460, setCurMapFriendNums,30,60035,2001,0,0,60035,2001
+[native object].convertToNodeSpace,-1, [native code],24,9076025,378167,0,0,9076025,378167
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,21, leave,40,90061,2251,10008,250,0,0
+.\src\firework/framework/EntityDriver.lua,11, setRid,296,20004,67,20004,67,0,0
+.\src\game/entity/CityEntity.lua,122, canAttack,3060,210043,68,210043,68,0,0
+[native object].getSpeedScale,-1, [native code],710,1931210,2720,140235,197,1790975,2522
+.\src\firework/framework/EntityDriver.lua,19, setEM,134,0,0,0,0,0,0
+.\src\game/entity/CityEntity.lua,13, setBattleMgr,4,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleManager.lua,273, getTotalEnemyNums,4,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,466, setShowedMapEnemyNums,22,10005,454,10005,454,0,0
+field.scheduleGlobal,-1, [native code],2,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,608, doCenterAction,4,20020,5005,0,0,20020,5005
+.\src\game/module/battle/behaviors/SoldierAi1052.lua,29, onBind_,4,9996,2499,0,0,0,0
+.\src\game/module/battle/BattleSettingLayer.lua,727, refreshApLable,2,0,0,0,0,0,0
+.\src\firework/framework/EntityMgrDriver.lua,36, update,3040,27517132,9051,780250,256,13638329,4486
+.\src\game/entity/EntityMgr.lua,18, updateImpl,3040,13098553,4308,610583,200,0,0
+.\src\game/module/battle/impl/BattleManager.lua,17, getEnmeyEntityListCallback_,1520,7484439,4923,560119,368,6674178,4390
+.\src\firework/framework/EntityMgrDriver.lua,47, getEnmeyEntityListCallback_,43790,2801804,63,2801804,63,0,0
+.\src\firework/framework/EntityDriver.lua,48, update,20744,8365203,403,2721785,131,5643418,272
+.\src\game/module/battle/behaviors/BowAutoAi20022.lua,11, ,2122,4113725,1938,410481,193,3703244,1745
+.\src\game/entity/CityEntity.lua,130, showHPChangeEffect,32,220302,6884,10014,312,210288,6571
+.\src\game/entity/SkeletonEntity.lua,210, afterAttackActionFinish,170,810446,4767,30022,176,0,0
+.\src\firework/cocos2dx/StateMachine.lua,103, canDoEvent,24034,1711655,71,1711655,71,0,0
+.\src\game/module/battle/BattleSettingLayer.lua,672, ,2,90074,45037,0,0,90074,45037
+.\src\game/module/battle/behaviors/GeneralAi2008.lua,17, leave,32,100069,3127,0,0,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,612, ,82,269690,3288,9999,121,249683,3044
+.\src\game/module/battle/impl/BattleManager.lua,99, addEnmeySide,20,9116058,455802,10009,500,9106049,455302
+.\src\game/module/battle/impl/BattleEntityCreator.lua,47, ,10,5083522,508352,0,0,5083522,508352
+.\src\game/entity/SkeletonAnmi.lua,54, setDirection,34,0,0,0,0,0,0
+.\src\game/entity/MeleeEntity.lua,8, ctor,20,720504,36025,0,0,0,0
+.\src\game/module/battle/impl/BattleManager.lua,89, stopMgr,6,5903822,983970,0,0,0,0
+.\src\firework/cocos2dx/StateMachine.lua,297, beforeEvent_,1310,960666,733,129929,99,0,0
+.\src\firework/cocos2dx/StateMachine.lua,281, beforeThisEvent_,1310,830737,634,370346,282,0,0
+.\src\firework/cocos2dx/StateMachine.lua,308, leaveState_,1188,1820718,1532,230095,193,0,0
+.\src\firework/cocos2dx/StateMachine.lua,269, leaveAnyState_,1188,930182,782,340006,286,530206,446
+.\src\firework/cocos2dx/StateMachine.lua,293, enterThisState_,1296,810590,625,370141,285,0,0
+.\src\firework/cocos2dx/StateMachine.lua,285, afterThisEvent_,1310,6634750,5064,210170,160,0,0
+.\src\firework/uilib/UIProgressButton.lua,75, ,14,30034,2145,20019,1429,10015,715
+.\src\game/entity/SkeletonEntity.lua,57, afterThisEvent_,34,310308,9126,40021,1177,0,0
+.\src\game/module/battle/behaviors/SoldierAi1052.lua,131, getAttackTarget,218,80050,367,80050,367,0,0
+.\src\game/entity/SkeletonEntity.lua,294, calculateHp,116,1361009,11732,10002,86,1351007,11646
+.\src\game/entity/SkeletonEntity.lua,141, getView,185080,11928641,64,11928641,64,0,0
+.\src\game/entity/SkeletonAnmi.lua,98, playAction,710,4303057,6060,140041,197,4163016,5863
+[native object].setSpeedScale,-1, [native code],710,3672651,5172,110065,155,3562586,5017
+.\src\game/module/battle/behaviors/SoldierAi1052.lua,6, ctor,4,0,0,0,0,0,0
+[native object].getMovement,-1, [native code],710,2521614,3551,210206,296,2311408,3255
+[native object].getMoveMentDuration,-1, [native code],710,2201342,3100,140140,197,2061202,2903
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,11, ctor,8,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,36, onBind_,8,50019,6252,0,0,0,0
+.\src\firework/cocos2dx/Scheduler.lua,38, performWithDelayGloabl,10,10008,1000,0,0,10008,1000
+.\src\game/module/battle/behaviors/GeneralAngrySlot.lua,10, ctor,10,0,0,0,0,0,0
+.\src\game/entity/CityEntity.lua,144, ,26,0,0,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,128, setHpCtrl,34,1070598,31488,20010,588,1050588,30899
+main:.\src\game/module/battle/behaviors/SoldierHp.lua,0, ,2,10020,5010,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierHp.lua,31, callback,34,10008,294,0,0,10008,294
+.\src\game/module/battle/behaviors/GeneralShowSpeech.lua,44, isShowing,10,2141367,214136,10008,1000,2131359,213135
+.\src\game/module/battle/behaviors/GeneralShowSpeech.lua,48, show,10,2121351,212135,0,0,49994,4999
+[native object].setTexture,-1, [native code],10,830523,83052,790441,79044,40082,4008
+[native object].getLocation,-1, [native code],8,3832621,479077,0,0,2571777,321472
+.\src\game/module/battle/behaviors/GeneralShowSpeech.lua,117, swallowTouches,10,40029,4002,0,0,40029,4002
+.\src\game/module/battle/impl/BattleManager.lua,281, plusEnemySide1,20,40020,2001,10008,500,30012,1500
+.\src\game/entity/SkeletonEntity.lua,236, canAttack,13364,790704,59,790704,59,0,0
+.\src\game/common/ViewHelper.lua,426, callback,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SkeletonAi.lua,95, afterRunActionFinish,418,1921092,4595,40032,95,0,0
+.\src\game/entity/SkeletonEntity.lua,250, updateCefos01,13164,760762,57,760762,57,0,0
+.\src\game/module/battle/BattleLayer.lua,275, Filter,14,11317632,808402,0,0,11317632,808402
+.\src\game/module/battle/impl/BattleManager.lua,290, isReachCanMakeSoldierMax,14,10008,714,0,0,0,0
+field.abs,-1, [native code],3110,37985220,12213,920522,295,25957282,8346
+.\src\game/module/battle/impl/BattleViewLayer.lua,754, isCanProduce,14,30013,2143,20004,1428,10009,714
+main:.\src\game/entity/RemoteEntity.lua,0, ,2,0,0,0,0,0,0
+.\src\game/entity/RemoteEntity.lua,7, ctor,14,460176,32869,0,0,0,0
+main:.\src\game/module/battle/behaviors/SoldierAi1052.lua,0, ,2,10030,5015,10030,5015,0,0
+.\src\game/module/battle/impl/BattleManager.lua,141, getProductFee,14,10005,714,0,0,10005,714
+.\src\game/module/battle/impl/BattleManager.lua,198, usedGold,14,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,525, addGold,14,260215,18586,0,0,250210,17872
+.\src\game/module/battle/BattleLayer.lua,264, beforeCompleted,14,4733074,338076,0,0,4733074,338076
+[native object].createWithSystemFont,-1, [native code],20,9196007,459800,9999,499,9186008,459300
+.\src\game/entity/SkeletonEntity.lua,262, scheduleUpdateCefos01,13026,301033770,23110,2031198,155,299002572,22954
+.\src\game/entity/CityEntity.lua,118, canBeAttacked,15946,1050881,65,1050881,65,0,0
+.\src\game/entity/SkeletonAnmi.lua,78, getPositionY,30648,1163515969,37963,5293633,172,1158222336,37791
+.\src\game/entity/SkeletonEntity.lua,167, getCRect,140560,2466870013,17550,23466252,166,0,0
+.\src\game/entity/SkeletonAnmi.lua,94, getCRect,171208,2733186680,15964,27958460,163,2705228220,15800
+.\src\game/module/battle/behaviors/SoldierAi1025.lua,48, attackTarget,22,12238234,556283,0,0,12238234,556283
+.\src\game/entity/ArrowEntity.lua,62, scheduleUpdateCefos01,2920,48233060,16518,380343,130,47852717,16387
+[native object].getCRect,-1, [native code],140560,2396361588,17048,56089307,399,1386853042,9866
+.\src\game/entity/SkeletonEntity.lua,258, isEnemy,13054,5984561,458,4133076,316,0,0
+.\src\game/entity/SkeletonEntity.lua,137, isDead,21832,1300871,59,1300871,59,0,0
+.\src\game/entity/SkeletonEntity.lua,151, getCefos01,14388,930689,64,930689,64,0,0
+.\src\game/module/battle/behaviors/SkeletonAi.lua,89, moveAction,7316,23394014,3197,2851888,389,0,0
+.\src\game/entity/SkeletonEntity.lua,124, getAngrySlot,74,30910422,417708,40046,541,0,0
+.\src\game/entity/SkeletonAnmi.lua,74, setPositionX,7316,3132152,428,1150902,157,1981250,270
+.\src\game/entity/SkeletonEntity.lua,39, afterThisEvent_,424,3282573,7741,160121,377,0,0
+.\src\firework/cocos2dx/Scheduler.lua,40, ,10,80034,8003,9999,999,0,0
+.\src\firework/cocos2dx/Scheduler.lua,31, unscheduleGlobal,372,160013,430,60046,161,99967,268
+.\src\game/module/battle/behaviors/GeneralShowSpeech.lua,109, _endShow,10,10018,1001,0,0,10018,1001
+[native object].unscheduleScriptEntry,-1, [native code],372,20013,53,20013,53,0,0
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,58, listener,8,50025,6253,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,133, getHpCtrl,126,270117,2143,50076,397,0,0
+.\src\firework/cocos2dx/GameObject.lua,33, getHpCtrl,2204,140047,63,140047,63,0,0
+[native object].getAttackRect,-1, [native code],50558,495183823,9794,16961259,335,109626203,2168
+.\src\game/entity/SkeletonAnmi.lua,104, ,704,3821396,5428,169419,240,0,0
+.\src\game/entity/SkeletonEntity.lua,115, getAi,1882,12667944,6731,520450,276,0,0
+.\src\game/module/battle/behaviors/SoldierAi1024.lua,116, beAttacked,4,70108,17527,0,0,60038,15009
+.\src\game/entity/SkeletonEntity.lua,48, leaveThisState_,418,430103,1028,149984,358,0,0
+.\src\game/module/battle/behaviors/ArrowAi1021.lua,11, ,532,6393992,12018,49996,93,6343996,11924
+.\src\game/entity/SkeletonEntity.lua,175, leaveThisState_,418,20023,47,20023,47,0,0
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,16, leave,136,460382,3385,10011,73,0,0
+.\src\game/entity/SkeletonEntity.lua,65, afterThisEvent_,404,9999,24,9999,24,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,651, entityScreenCenter,78,179573,2302,20020,256,159553,2045
+[native object].getPosition,-1, [native code],78,149545,1917,19998,256,129547,1660
+[native object].convertToWorldSpace,-1, [native code],78,99504,1275,29533,378,69971,897
+.\src\game/module/battle/behaviors/SoldierAi1055.lua,6, ctor,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1025.lua,29, onBind_,4,20016,5004,10011,2502,0,0
+.\src\game/module/battle/behaviors/ArrowAi1052.lua,16, ,2388,41929137,17558,330319,138,41598818,17419
+.\src\game/module/battle/behaviors/SoldierAi1044.lua,30, onBind_,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1055.lua,11, leave,14,50050,3575,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1044.lua,11, leave,12,60061,5005,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1025.lua,11, leave,20,90059,4502,0,0,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,554, onTouchBegan,2,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,430, ,2,1290897,645448,0,0,1290897,645448
+.\src\game/module/battle/impl/BattleViewLayer.lua,580, onTouchEnded,2,1290897,645448,0,0,1290897,645448
+.\src\game/module/battle/Qipao.lua,5, __create,24,390257,16260,0,0,390257,16260
+.\src\game/module/battle/behaviors/SoldierAi1024.lua,48, attackTarget,36,24245889,673496,10005,277,24235884,673219
+[native object].getBone,-1, [native code],292,194788451,667083,40035,137,194748416,666946
+[native object].getWorldInfoPos,-1, [native code],292,194728384,666878,50033,171,194668342,666672
+.\src\cocos/cocosdenshion/AudioEngine.lua,31, stopMusic,6,0,0,0,0,0,0
+.\src\game/entity/BowEntity.lua,57, attack,2,1260844,630422,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1044.lua,59, beAttackedAction,4,260168,65042,0,0,0,0
+.\src\game/module/battle/behaviors/RandomSpeech.lua,22, doSpeech,3082,1200554,389,380098,123,820456,266
+.\src\game/module/battle/behaviors/RandomSpeech.lua,53, showQipao,24,490286,20428,0,0,490286,20428
+main:.\src\game/module/battle/behaviors/SoldierAi1035.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1035.lua,6, ctor,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1024.lua,126, getAttackTarget,252,80074,317,80074,317,0,0
+.\src\game/module/battle/behaviors/SoldierAi1024.lua,41, attackImpl,36,24696302,686008,20007,555,0,0
+.\src\game/entity/SkeletonEntity.lua,215, afterSkillActionFinish,2,10120,5060,0,0,0,0
+.\src\game/entity/ArrowEntity.lua,5, ctor,96,61760625,643339,40039,417,0,0
+.\src\game/entity/ArrowEntity.lua,49, setAi,96,490556,5109,0,0,490556,5109
+main:.\src\game/module/battle/behaviors/ArrowAi1021.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/ArrowAi1021.lua,5, ctor,68,10012,147,10012,147,0,0
+.\src\game/entity/SkeletonEntity.lua,50, leaveThisState_,52,40036,769,10005,192,0,0
+.\src\game/common/ViewHelper.lua,498, callback,2,110084,55042,0,0,110084,55042
+.\src\game/module/battle/behaviors/ArrowAi1021.lua,9, onBind_,68,150249,2209,50043,735,0,0
+.\src\game/entity/ArrowEntity.lua,33, getAttackRect,19910,229087594,11506,3142030,157,0,0
+.\src\game/entity/ArrowEntity.lua,13, getView,28708,1771435,61,1771435,61,0,0
+.\src\game/entity/ArrowEntity.lua,21, setCefos01,2920,200145,68,200145,68,0,0
+.\src\game/module/battle/behaviors/ArrowAi1021.lua,24, doAiAction,532,6183863,11623,150031,282,5983794,11247
+.\src\game/entity/ArrowEntity.lua,54, getCfgByKey,8824,600254,68,600254,68,0,0
+[native object].isVisible,-1, [native code],2,620408,310204,0,0,620408,310204
+.\src\game/entity/ArrowEntity.lua,17, getCefos01,9496,440284,46,440284,46,0,0
+.\src\game/module/battle/behaviors/SoldierAi1025.lua,126, getAttackTarget,154,40023,259,20010,129,0,0
+.\src\game/module/battle/behaviors/SoldierAi1025.lua,41, attackImpl,22,12518327,569014,10005,454,0,0
+.\src\game/module/battle/behaviors/SoldierAi1052.lua,41, attackImpl,36,38255410,1062650,20019,556,0,0
+.\src\game/module/battle/behaviors/SoldierAi1052.lua,49, playAttackEffect,28,15920438,568587,10005,357,0,0
+.\src\game/module/battle/behaviors/SoldierAi1052.lua,53, attackTarget,28,21934586,783378,20016,714,21914570,782663
+.\src\game/module/battle/behaviors/ArrowAi1052.lua,5, ctor,28,9909,353,9909,353,0,0
+.\src\game/module/battle/behaviors/ArrowAi1052.lua,9, onBind_,28,40021,1429,10015,357,0,0
+.\src\game/module/battle/behaviors/ArrowAi1052.lua,11, ,2388,11847185,4961,380111,159,11467074,4801
+.\src\game/module/battle/behaviors/ArrowAi1052.lua,24, doAiAction,2388,10326168,4324,450228,188,9745865,4081
+.\src\game/module/battle/Qipao.lua,19, ,24,39864,1661,0,0,39864,1661
+.\src\game/module/battle/behaviors/RandomSpeech.lua,58, cb,24,0,0,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,69, thisActionFinishCall,170,820454,4826,10008,58,0,0
+.\src\game/module/battle/behaviors/SkeletonAi.lua,101, afterAttackActionFinish,170,640361,3766,30022,176,0,0
+.\src\game/entity/SkeletonEntity.lua,49, leaveThisState_,170,160068,941,90060,529,0,0
+.\src\game/module/battle/behaviors/ArrowAi1021.lua,55, getAttackTarget,256,60061,234,50056,195,0,0
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,114, beAttackedAction,86,420249,4886,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1025.lua,116, beAttacked,6,100089,16681,0,0,100089,16681
+.\src\game/entity/SkeletonEntity.lua,200, beAttacked,116,1751327,15097,10005,86,0,0
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,136, beAttacked,86,1160806,13497,20001,232,1130803,13148
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,147, showHurt,86,10008,116,10008,116,0,0
+.\src\game/entity/SkeletonAnmi.lua,42, getParent,116,100206,863,0,0,100206,863
+.\src\firework/framework/EntityDriver.lua,23, getEM,104,10002,96,10002,96,0,0
+.\src\game/entity/ArrowEntity.lua,79, onRemove,108,230147,2130,20006,185,210141,1945
+.\src\firework/cocos2dx/GameObject.lua,27, removeComponent,208,340223,1635,40060,192,0,0
+.\src\firework/cocos2dx/Component.lua,54, unbind_,208,300163,1443,60054,288,60089,288
+.\src\game/module/battle/behaviors/ArrowAi1021.lua,59, onUnbind_,68,80052,1177,30015,441,0,0
+.\src\game/entity/CityEntity.lua,126, onRemove,12,0,0,0,0,0,0
+.\src\firework/framework/EntityDriver.lua,15, getRid,1082,79990,73,79990,73,0,0
+.\src\game/module/battle/behaviors/SoldierAi1052.lua,12, leave,28,100095,3574,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,45, afterThisEvent_,66,570301,8640,20004,303,0,0
+.\src\game/module/battle/behaviors/SoldierAi1044.lua,89, getAttackTarget,44,0,0,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,331, ,116,110095,949,30012,258,80083,690
+.\src\game/entity/SkeletonEntity.lua,85, thisActionFinishCall,66,279964,4241,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,220, afterBeAttackActionFinish,66,279964,4241,10017,151,0,0
+.\src\game/module/battle/behaviors/SkeletonAi.lua,113, afterBeAttackActionFinish,66,229915,3483,30003,454,0,0
+.\src\game/entity/SkeletonEntity.lua,185, leaveThisState_,52,10012,192,10012,192,0,0
+.\src\game/module/battle/behaviors/SkeletonAi.lua,107, afterSkillActionFinish,2,10120,5060,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,46, afterThisEvent_,46,50019,1087,30024,652,0,0
+.\src\game/module/battle/behaviors/SoldierAi1044.lua,12, leave,4,70032,17508,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralAi2008.lua,37, onBind_,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralAngrySlot.lua,69, getIsAngryFull,64,10009,156,10009,156,0,0
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,17, leave,52,12498267,240351,10005,192,0,0
+.\src\firework/util/Ini.lua,90, ,2,830552,415276,0,0,830552,415276
+[native object].write,-1, [native code],2,10012,5006,10012,5006,0,0
+.\src\game/module/battle/impl/BattleManager.lua,184, addEnmeySoldierArrow,24,19973022,832209,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,108, attackTarget,52,12178061,234193,9996,192,0,0
+.\src\game/module/battle/behaviors/SoldierAi1044.lua,79, beAttacked,4,60039,15009,0,0,60039,15009
+main:.\src\game/module/battle/behaviors/SoldierAi1053.lua,0, ,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1053.lua,6, ctor,6,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1024.lua,96, beAttackedAction,12,30028,2502,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1055.lua,49, playAttackEffect,8,4392893,549111,0,0,0,0
+.\src\game/module/battle/impl/BattleManager.lua,261, minusFriendSide1,14,39962,2854,0,0,39962,2854
+.\src\game/module/battle/impl/BattleViewLayer.lua,821, checkCanShowHelpMeGame,2,0,0,0,0,0,0
+.\src\game/module/battle/impl/BattleViewLayer.lua,685, removeFriendIdInBattle,14,10015,715,0,0,10015,715
+.\src\game/entity/SkeletonEntity.lua,47, afterThisEvent_,14,210062,15004,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1055.lua,12, leave,8,230152,28769,10008,1251,0,0
+.\src\game/module/battle/behaviors/SoldierAi1055.lua,53, attackTarget,8,140084,17510,20023,2502,0,0
+.\src\game/entity/SkeletonAnmi.lua,21, ,8,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralAi2008.lua,51, listener,2,10005,5002,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,225, afterDeadActionFinish,14,220012,15715,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,244, onRemove,74,180101,2433,10005,135,170096,2298
+.\src\firework/cocos2dx/StateMachine.lua,234, onUnbind_,34,20010,588,20010,588,0,0
+.\src\game/entity/SkeletonAnmi.lua,38, removeFromParent,14,89995,6428,0,0,89995,6428
+.\src\game/module/battle/behaviors/SoldierAi1055.lua,59, beAttackedAction,6,50094,8349,0,0,0,0
+.\src\game/module/battle/behaviors/ArrowAi1052.lua,54, onUnbind_,28,40024,1429,10005,357,0,0
+.\src\game/module/battle/behaviors/SoldierAi1055.lua,16, leave,4,20016,5004,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1052.lua,101, beAttackedAction,12,120062,10005,0,0,0,0
+.\src\game/entity/EntityMgr.lua,48, getAliveEntity,20,160174,8008,0,0,160174,8008
+.\src\game/module/battle/behaviors/SoldierAi1024.lua,15, leave,4,69974,17493,10002,2500,0,0
+.\src\game/module/battle/behaviors/SoldierAi1025.lua,15, leave,8,20004,2500,0,0,9999,1249
+.\src\game/module/battle/behaviors/SoldierAi1035.lua,41, attackImpl,10,5653791,565379,9986,998,0,0
+.\src\game/module/battle/behaviors/SoldierAi1035.lua,49, playAttackEffect,10,5523712,552371,0,0,0,0
+.\src\game/module/battle/behaviors/SoldierAi1035.lua,12, leave,10,3542334,354233,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralAi2008.lua,18, leave,10,6034069,603406,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralAi2008.lua,102, attackTarget,10,6014066,601406,0,0,6014066,601406
+.\src\game/entity/CityEntity.lua,66, beAttackedAction,40,0,0,0,0,0,0
+.\src\game/entity/CityEntity.lua,21, getView,32,10027,313,10027,313,0,0
+.\src\game/entity/CityEntity.lua,87, ,32,5913939,184810,10117,316,0,0
+.\src\game/entity/SkeletonEntity.lua,75, afterThisEvent_,2,20014,10007,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,155, getAllAttackTarget,2,10008,5004,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,51, leaveThisState_,2,0,0,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,190, leaveThisState_,2,0,0,0,0,0,0
+.\src\game/module/battle/behaviors/GeneralAi2001.lua,32, leave,2,10008,5004,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,44, afterThisEvent_,2,0,0,0,0,0,0
+.\src\game/entity/SkeletonEntity.lua,81, afterThisEvent_,2,0,0,0,0,0,0
+.\src\game/entity/EntityMgr.lua,62, removeAll,12,140149,11679,0,0,140149,11679
+.\src\game/module/battle/BattleModule.lua,71, battleFinished,6,5743653,957275,0,0,5733635,955605
+.\src\game/module/battle/BattleModule.lua,172, battleFailed,6,5723643,953940,0,0,3882539,647089
+.\src\game/module/battle/impl/BattleSummaryLayer.lua,9, __create,2,1841104,920552,0,0,1841104,920552
+.\src\game/module/battle/impl/BattleSummaryLayer.lua,583, setSummary,8,340144,42518,0,0,340144,42518
+.\src\game/module/battle/impl/BattleSummaryLayer.lua,675, show,8,10008,1251,0,0,10008,1251
+.\src\game/module/battle/BattleModule.lua,79, ,2,60018,30009,0,0,60018,30009
+.\src\game/module/battle/impl/BattleSummaryLayer.lua,79, onClicked,4,1601068,400267,0,0,1601068,400267
+.\src\game/module/battle/impl/BattleSummaryLayer.lua,636, onMapBtnClick,4,1601068,400267,0,0,1601068,400267
+.\src\game/module/battle/BattleModule.lua,34, onRemove,2,10012,5006,0,0,10012,5006
+.\src\game/module/battle/impl/BattleSummaryLayer.lua,712, hide,2,10005,5002,0,0,10005,5002
+.\src\game/common/ViewHelper.lua,395, showExitView,2,620408,310204,0,0,620408,310204
+.\src\game/common/ViewHelper.lua,270, addChildWithAction,2,20014,10007,0,0,20014,10007
+.\src\game/common/ViewHelper.lua,444, callback,2,0,0,0,0,0,0
+.\src\game/common/ViewHelper.lua,482, callback,2,0,0,0,0,0,0
+.\src\game/common/ViewHelper.lua,532, callback,2,0,0,0,0,0,0
+field.dump_to,-1, [native code],1,0,0,0,0,0,0

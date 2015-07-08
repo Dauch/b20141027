@@ -2,8 +2,8 @@ lua&luajit profiler
 ===
 How to use?
 =======
-1. copy luajitprofiler & profiler to your floder
-    (e.g.:runtime-src\firework\..)
+1. copy luajitprofiler&profiler floder to your floder
+    (e.g.floder like:runtime-src\firework\..)
     
 2. in (AppDelegate.cpp  or some where you want to include)
 ```c++
@@ -45,13 +45,13 @@ bool AppDelegate::applicationDidFinishLaunching()
     
     then copy out the data, change "    " in data to ",", then save as csv file, then you can anylize it.
       
-
+```
 lua_profiler
 	pause
 	resume
 	start
 	stop
-	
+```	
 4. use luajit profiler in lua:
 ```lua
     -- start
@@ -61,7 +61,7 @@ lua_profiler
 ```
     anylize it :
     change luajit_profiler.out to luajit_profiler.csv , then you can anylize it.
-    
+```
 luajit_profiler
 	start
 	stop
@@ -73,6 +73,6 @@ luajit_profiler
 	dump_to(filename)
 	dump
 	hook  ( profile.hook(table, name, stat_fn) )
-	
+```	
 have more fun!
 ===

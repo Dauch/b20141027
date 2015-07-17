@@ -1,7 +1,7 @@
 lua&luajit profiler
 ===
 How to use?
-=======
+========
 1. copy luajitprofiler&profiler floder to your floder
     (e.g.floder like:runtime-src\firework\..)
     

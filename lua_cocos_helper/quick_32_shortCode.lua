@@ -1,7 +1,7 @@
 
 -- 创建一个序列帧动画 walk0001.png ~ walk0008.png
 local frames = display.newFrames("Walk%04d", 1, 8)
-local animatiom = display.newAnimation(frames, 0.2)
+local animation = display.newAnimation(frames, 0.2)
 
 -- 创建一个 Sprite
 local sprite = display.newSprite("#Walk0001.png")
@@ -27,5 +27,5 @@ local sprite = cc.Sprite:createWithSpriteFrame("Walk0001.png")
 
 -- 创建一个序列帧动画 walk0001.png ~ walk0008.png
 local animate = cc.Animate:create(animation)
-local action = cc.RepeateForever:create(animate)
+local action = cc.RepeatForever:create(animate)
 sprite::runAction(action)

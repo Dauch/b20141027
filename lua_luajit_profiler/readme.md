@@ -57,7 +57,7 @@ lua_profiler
     -- start
     require "luajit_profiler"
     luajit_profiler.start()
-    luajit_profiler.dump_to("d:/de/t/luajit_profiler.out")
+    luajit_profiler.dump_to("d:/de/t/luajit_profiler.csv")
 ```
     anylize it :
     change luajit_profiler.out to luajit_profiler.csv , then you can anylize it.

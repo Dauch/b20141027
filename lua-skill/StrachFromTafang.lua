@@ -8,7 +8,7 @@ performWithDelay(cc.Director:getInstance():getRunningScene(), function()
 end, 5):setTag(-1127367)
 
 -- --------------------------------------------------------------------
--- 判断给到的参赛为字符串且不为空
+-- 判断给到的参数为字符串且不为空
 assert(type(name) == "string" and name ~= "", ("need %s to be a string and not \"\""):format(name))
 
 

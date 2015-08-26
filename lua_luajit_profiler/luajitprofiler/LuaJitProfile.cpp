@@ -5,7 +5,7 @@
 #include <sstream>
 #include <fstream>
 
-#include <StringCommon.h>
+#include "StringCommon.h"
 
 #include "LuaJitProfile.h"
 

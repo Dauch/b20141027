@@ -34,3 +34,6 @@ local cls = _G[className].new("parm1", "parm2")
 -- 确保在表t中获得的特定的字段
 -- t and t.cfg_ and t.cfg_.typeName 查看
 self:delegateFilter(parm1, parm2, t and t.cfg_ and t.cfg_.typeName)
+
+-- 在release的包中打印的方法(已经生成为release版的so文件也可以打印到logcat中)：
+release_print("xxx")

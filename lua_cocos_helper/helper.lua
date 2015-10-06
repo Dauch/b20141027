@@ -353,3 +353,22 @@ function GuideBase:doShow(target, cbClick)
     self:getEventDispatcher():removeEventListenersForTarget(self)
     self:getEventDispatcher():addEventListenerWithSceneGraphPriority(listener, self)
 end
+
+-------------------------------------
+--  *new know point*  setPosition in a new way.
+-------------------------------------
+--[[
+/** Sets the position (x,y) using values between 0 and 1.
+ The positions in pixels is calculated like the following:
+ @code
+ // pseudo code
+ void setNormalizedPosition(Vec2 pos) {
+   Size s = getParent()->getContentSize();
+   _position = pos * s;
+ }
+ @endcode
+ *
+ * @param position The normalized position (x,y) of the node, using value between 0 and 1.
+ */
+virtual void setNormalizedPosition(const Vec2 &position);
+--]]

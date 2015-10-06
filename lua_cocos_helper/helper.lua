@@ -355,7 +355,7 @@ function GuideBase:doShow(target, cbClick)
 end
 
 -------------------------------------
---  *new know point*  setPosition in a new way.
+--  *new know point*  (CCNode.h)setPosition in a new way.
 -------------------------------------
 --[[
 /** Sets the position (x,y) using values between 0 and 1.
@@ -375,7 +375,7 @@ virtual void setNormalizedPosition(const Vec2 &position);
 
 
 -------------------------------------
---  *new know point*  getPosition in a new way (through anchorpint).
+--  *new know point*  (CCNode.h)getPosition in a new way (through anchorpint).
 -------------------------------------
 --[[
 /**
@@ -387,4 +387,37 @@ virtual void setNormalizedPosition(const Vec2 &position);
  * @return The anchor point in absolute pixels.
  */
 virtual const Vec2& getAnchorPointInPoints() const;
+--]]
+
+-------------------------------------
+--  *new know point*  (CCNode.h)addChild getChild in a new way (through custom name).
+-------------------------------------
+--[[
+/**
+ * Adds a child to the container with z order and name
+ *
+ * If the child is added to a 'running' node, then 'onEnter' and 'onEnterTransitionDidFinish' will be called immediately.
+ *
+ * @param child     A child node.
+ * @param localZOrder    Z order for drawing priority. Please refer to `setLocalZOrder(int)`.
+ * @param name      A string to identify the node easily. Please refer to `setName(const std::string&)`.
+ *
+ */
+virtual void addChild(Node* child, int localZOrder, const std::string &name);
+/** Changes the name that is used to identify the node easily.
+ * @param name A string that identifies the node.
+ *
+ * @since v3.2
+ */
+virtual void setName(const std::string& name);
+/**
+ * Gets a child from the container with its name.
+ *
+ * @param name   An identifier to find the child node.
+ *
+ * @return a Node object whose name equals to the input parameter.
+ *
+ * @since v3.2
+ */
+virtual Node* getChildByName(const std::string& name) const;
 --]]

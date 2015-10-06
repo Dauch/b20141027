@@ -372,3 +372,19 @@ end
  */
 virtual void setNormalizedPosition(const Vec2 &position);
 --]]
+
+
+-------------------------------------
+--  *new know point*  getPosition in a new way (through anchorpint).
+-------------------------------------
+--[[
+/**
+ * Returns the anchorPoint in absolute pixels.
+ *
+ * @warning You can only read it. If you wish to modify it, use anchorPoint instead.
+ * @see `getAnchorPoint()`
+ *
+ * @return The anchor point in absolute pixels.
+ */
+virtual const Vec2& getAnchorPointInPoints() const;
+--]]

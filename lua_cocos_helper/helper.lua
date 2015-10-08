@@ -421,3 +421,45 @@ virtual void setName(const std::string& name);
  */
 virtual Node* getChildByName(const std::string& name) const;
 --]]
+
+-------------------------------------
+--  *new know point*  (CCActionInterval.h) Action Inherit from ActionInterval
+-------------------------------------
+--[[
+Sequence
+Repeat
+RepeatForever
+Spawn
+RotateTo
+RotateBy
+MoveBy
+SkewTo
+JumpBy
+BezierBy
+ScaleTo
+Blink
+FadeTo
+TintTo
+TintBy
+DelayTime
+ReverseTime   -- *new know point*
+Animate
+TargetedAction 
+ActionFloat  -- *new know point*
+
+-- *new know point* : ReverseTime
+/** @class ReverseTime
+ * @brief Executes an action in reverse order, from time=duration to time=0
+ 
+ @warning Use this action carefully. This action is not
+ sequenceable. Use it as the default "reversed" method
+ of your own actions, but using it outside the "reversed"
+ scope is not recommended.
+*/
+
+-- *new know point* : ActionFloat
+/**
+ * @class ActionFloat
+ * @brief Action used to animate any value in range [from,to] over specified time interval
+ */
+ --]]
